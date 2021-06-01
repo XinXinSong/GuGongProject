@@ -1,0 +1,1077 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:530px;
+    top:209px;
+    width:153px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:580px;
+    top:205px;
+    width:62px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u2 {
+    position:absolute;
+    left:214px;
+    top:208px;
+    width:295px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:297px;
+    top:205px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:423px;
+    top:205px;
+    width:96px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u5 {
+    position:absolute;
+    left:730px;
+    top:208px;
+    width:295px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:214px;
+    top:272px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u7 {
+    position:absolute;
+    left:214px;
+    top:47px;
+    width:128px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../财务票纸发放_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:214px;
+    top:76px;
+    width:717px;
+    height:116px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:723px;
+    height:122px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:50px;
+    width:713px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:351px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:351px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:351px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:351px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:214px;
+    top:240px;
+    width:176px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../票务科_1_files/u0_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:4px;
+    top:2px;
+    width:1096px;
+    height:35px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:17px;
+    top:12px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../票务科_1_files/u3_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:4px;
+    top:43px;
+    width:191px;
+    height:749px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:4px;
+    top:44px;
+    width:191px;
+    height:26px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:43px;
+    top:47px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:4px;
+    top:70px;
+    width:191px;
+    height:26px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:43px;
+    top:73px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:4px;
+    top:122px;
+    width:191px;
+    height:26px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:4px;
+    top:148px;
+    width:191px;
+    height:26px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:43px;
+    top:151px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:4px;
+    top:174px;
+    width:191px;
+    height:26px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:43px;
+    top:177px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:4px;
+    top:200px;
+    width:191px;
+    height:26px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:43px;
+    top:203px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:4px;
+    top:226px;
+    width:191px;
+    height:26px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:43px;
+    top:229px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:4px;
+    top:96px;
+    width:191px;
+    height:26px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:43px;
+    top:99px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:45px;
+    top:127px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:4px;
+    top:252px;
+    width:191px;
+    height:26px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:43px;
+    top:255px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:4px;
+    top:278px;
+    width:191px;
+    height:26px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:43px;
+    top:281px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:4px;
+    top:330px;
+    width:191px;
+    height:26px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:4px;
+    top:304px;
+    width:191px;
+    height:26px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:43px;
+    top:333px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:43px;
+    top:307px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:672px;
+    top:205px;
+    width:48px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u62 {
+    position:absolute;
+    left:202px;
+    top:47px;
+    width:899px;
+    height:311px;
+    overflow:hidden;
+}
+
+#pd0u62 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:899px;
+    height:311px;
+    
+}
+
+.u63_normal {
+    background-image: url('../财务票纸发放_files/u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:10px;
+    top:7px;
+    width:726px;
+    height:297px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:732px;
+    height:303px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:722px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../财务票纸发放_files/u65_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:166px;
+    top:51px;
+    width:251px;
+    height:166px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:257px;
+    height:172px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:75px;
+    width:247px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:226px;
+    top:115px;
+    width:295px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:226px;
+    top:158px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u69 {
+    position:absolute;
+    left:394px;
+    top:59px;
+    width:31px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u70 {
+    position:absolute;
+    left:367px;
+    top:51px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

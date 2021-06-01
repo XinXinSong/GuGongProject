@@ -1,0 +1,20 @@
+* html .u5_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="门票销售新模板_files/u38_normal.png");
+}
+
+* html .u7_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="门票销售新模板_files/u40_normal.png");
+}
+
+* html .u15_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="窗口结算_files/u15_line.png");
+}
+
+* html .u30_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="窗口结算_files/u30_line.png");
+}
+

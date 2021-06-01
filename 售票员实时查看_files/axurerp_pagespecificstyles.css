@@ -1,0 +1,1298 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:220px;
+    top:60px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:290px;
+    top:59px;
+    width:80px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u2 {
+    position:absolute;
+    left:387px;
+    top:58px;
+    width:67px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u3_normal {
+    background-image: url('../售票员实时查看_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:216px;
+    top:105px;
+    width:154px;
+    height:25px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:160px;
+    height:31px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../售票员实时查看_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:512px;
+    top:105px;
+    width:137px;
+    height:25px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:143px;
+    height:31px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:133px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../售票员实时查看_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:649px;
+    top:105px;
+    width:174px;
+    height:25px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:31px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../售票员实时查看_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:370px;
+    top:105px;
+    width:141px;
+    height:25px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:147px;
+    height:31px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../售票员实时查看_files/u3_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:216px;
+    top:130px;
+    width:154px;
+    height:25px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:160px;
+    height:31px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../售票员实时查看_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:512px;
+    top:130px;
+    width:138px;
+    height:25px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:31px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../售票员实时查看_files/u7_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:649px;
+    top:130px;
+    width:174px;
+    height:25px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:31px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../售票员实时查看_files/u9_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:370px;
+    top:130px;
+    width:141px;
+    height:25px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:147px;
+    height:31px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../售票员实时查看_files/u7_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:822px;
+    top:105px;
+    width:174px;
+    height:25px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:31px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../售票员实时查看_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:996px;
+    top:105px;
+    width:122px;
+    height:25px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:31px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../售票员实时查看_files/u7_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:823px;
+    top:130px;
+    width:174px;
+    height:25px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:31px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../售票员实时查看_files/u21_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:997px;
+    top:130px;
+    width:122px;
+    height:25px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:31px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:1064px;
+    top:71px;
+    width:79px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../功能模块_3_files/u0_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:1096px;
+    height:35px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:28px;
+    top:24px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../功能模块_3_files/u3_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:15px;
+    top:55px;
+    width:191px;
+    height:749px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:15px;
+    top:56px;
+    width:191px;
+    height:26px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:54px;
+    top:59px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:15px;
+    top:82px;
+    width:191px;
+    height:26px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:54px;
+    top:85px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:15px;
+    top:134px;
+    width:191px;
+    height:26px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:15px;
+    top:264px;
+    width:191px;
+    height:26px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:54px;
+    top:267px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:15px;
+    top:290px;
+    width:191px;
+    height:26px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:54px;
+    top:293px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:15px;
+    top:316px;
+    width:191px;
+    height:26px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:54px;
+    top:319px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:15px;
+    top:342px;
+    width:191px;
+    height:26px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:54px;
+    top:345px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:15px;
+    top:108px;
+    width:191px;
+    height:26px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:54px;
+    top:111px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:56px;
+    top:139px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:15px;
+    top:160px;
+    width:191px;
+    height:26px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:54px;
+    top:163px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:15px;
+    top:186px;
+    width:191px;
+    height:26px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:54px;
+    top:189px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:15px;
+    top:238px;
+    width:191px;
+    height:26px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:15px;
+    top:212px;
+    width:191px;
+    height:26px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:54px;
+    top:241px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:54px;
+    top:215px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:15px;
+    top:368px;
+    width:191px;
+    height:26px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:54px;
+    top:371px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:15px;
+    top:394px;
+    width:191px;
+    height:26px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:54px;
+    top:397px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:15px;
+    top:420px;
+    width:191px;
+    height:26px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:54px;
+    top:423px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

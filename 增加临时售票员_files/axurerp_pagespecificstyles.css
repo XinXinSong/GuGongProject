@@ -1,0 +1,3995 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:1018px;
+    top:140px;
+    width:132px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_line {
+    background-image: url('../增加临时售票员_files/u1_line.png');
+}
+
+.u1_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:931px;
+    height:3px;
+}
+
+.u1 {
+    position:absolute;
+    left:219px;
+    top:168px;
+    width:931px;
+    height:10px;
+    
+}
+
+.u2_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:219px;
+    top:188px;
+    width:55px;
+    height:27px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:274px;
+    top:188px;
+    width:93px;
+    height:27px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:367px;
+    top:188px;
+    width:93px;
+    height:27px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:459px;
+    top:188px;
+    width:108px;
+    height:27px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:568px;
+    top:188px;
+    width:236px;
+    height:27px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:804px;
+    top:188px;
+    width:108px;
+    height:27px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:912px;
+    top:188px;
+    width:108px;
+    height:27px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:1021px;
+    top:188px;
+    width:108px;
+    height:27px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:219px;
+    top:215px;
+    width:55px;
+    height:27px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:274px;
+    top:215px;
+    width:93px;
+    height:27px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:367px;
+    top:215px;
+    width:93px;
+    height:27px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:459px;
+    top:215px;
+    width:108px;
+    height:27px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:568px;
+    top:215px;
+    width:236px;
+    height:27px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:804px;
+    top:215px;
+    width:108px;
+    height:27px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:912px;
+    top:215px;
+    width:108px;
+    height:27px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:1021px;
+    top:215px;
+    width:108px;
+    height:27px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:219px;
+    top:242px;
+    width:55px;
+    height:27px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:274px;
+    top:242px;
+    width:93px;
+    height:27px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:367px;
+    top:242px;
+    width:93px;
+    height:27px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:459px;
+    top:242px;
+    width:108px;
+    height:27px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:568px;
+    top:242px;
+    width:236px;
+    height:27px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:804px;
+    top:242px;
+    width:108px;
+    height:27px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:912px;
+    top:242px;
+    width:108px;
+    height:27px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:1021px;
+    top:242px;
+    width:108px;
+    height:27px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:219px;
+    top:269px;
+    width:55px;
+    height:27px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:274px;
+    top:269px;
+    width:93px;
+    height:27px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:367px;
+    top:269px;
+    width:93px;
+    height:27px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:459px;
+    top:269px;
+    width:108px;
+    height:27px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:568px;
+    top:269px;
+    width:236px;
+    height:27px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:804px;
+    top:269px;
+    width:108px;
+    height:27px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:912px;
+    top:269px;
+    width:108px;
+    height:27px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:1021px;
+    top:269px;
+    width:108px;
+    height:27px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:219px;
+    top:296px;
+    width:55px;
+    height:27px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:274px;
+    top:296px;
+    width:93px;
+    height:27px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:367px;
+    top:296px;
+    width:93px;
+    height:27px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:459px;
+    top:296px;
+    width:108px;
+    height:27px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:568px;
+    top:296px;
+    width:236px;
+    height:27px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:804px;
+    top:296px;
+    width:108px;
+    height:27px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:912px;
+    top:296px;
+    width:108px;
+    height:27px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:1021px;
+    top:296px;
+    width:108px;
+    height:27px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:219px;
+    top:323px;
+    width:55px;
+    height:27px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:274px;
+    top:323px;
+    width:93px;
+    height:27px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:367px;
+    top:323px;
+    width:93px;
+    height:27px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:459px;
+    top:323px;
+    width:108px;
+    height:27px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:568px;
+    top:323px;
+    width:236px;
+    height:27px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:804px;
+    top:323px;
+    width:108px;
+    height:27px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:912px;
+    top:323px;
+    width:108px;
+    height:27px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:1021px;
+    top:323px;
+    width:108px;
+    height:27px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:219px;
+    top:350px;
+    width:55px;
+    height:27px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:274px;
+    top:350px;
+    width:93px;
+    height:27px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:367px;
+    top:350px;
+    width:93px;
+    height:27px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:459px;
+    top:350px;
+    width:108px;
+    height:27px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:568px;
+    top:350px;
+    width:236px;
+    height:27px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:804px;
+    top:350px;
+    width:108px;
+    height:27px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:912px;
+    top:350px;
+    width:108px;
+    height:27px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:1021px;
+    top:350px;
+    width:108px;
+    height:27px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:219px;
+    top:377px;
+    width:55px;
+    height:27px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:274px;
+    top:377px;
+    width:93px;
+    height:27px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:367px;
+    top:377px;
+    width:93px;
+    height:27px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:459px;
+    top:377px;
+    width:108px;
+    height:27px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:568px;
+    top:377px;
+    width:236px;
+    height:27px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:804px;
+    top:377px;
+    width:108px;
+    height:27px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:912px;
+    top:377px;
+    width:108px;
+    height:27px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:1021px;
+    top:377px;
+    width:108px;
+    height:27px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../增加临时售票员_files/u2_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:219px;
+    top:404px;
+    width:55px;
+    height:27px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:33px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:51px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:274px;
+    top:404px;
+    width:93px;
+    height:27px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../增加临时售票员_files/u4_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:367px;
+    top:404px;
+    width:93px;
+    height:27px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:33px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:459px;
+    top:404px;
+    width:108px;
+    height:27px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../增加临时售票员_files/u10_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:568px;
+    top:404px;
+    width:236px;
+    height:27px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:33px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:232px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:804px;
+    top:404px;
+    width:108px;
+    height:27px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:912px;
+    top:404px;
+    width:108px;
+    height:27px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../增加临时售票员_files/u8_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:1021px;
+    top:404px;
+    width:108px;
+    height:27px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:33px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:342px;
+    top:447px;
+    width:550px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../增加临时售票员_files/u165_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:323px;
+    top:141px;
+    width:71px;
+    height:27px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:33px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:67px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../增加临时售票员_files/u165_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:416px;
+    top:141px;
+    width:71px;
+    height:27px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:77px;
+    height:33px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:67px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u169 {
+    position:absolute;
+    left:480px;
+    top:215px;
+    width:610px;
+    height:333px;
+    overflow:hidden;
+}
+
+#pd0u169 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:610px;
+    height:333px;
+    
+}
+
+.u170_normal {
+    background-image: url('../增加临时售票员_files/u170_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:9px;
+    top:9px;
+    width:582px;
+    height:296px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:588px;
+    height:302px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:140px;
+    width:578px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172 {
+    position:absolute;
+    left:18px;
+    top:16px;
+    width:132px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173 {
+    position:absolute;
+    left:48px;
+    top:61px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:118px;
+    top:58px;
+    width:127px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u175 {
+    position:absolute;
+    left:55px;
+    top:267px;
+    width:119px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u176 {
+    position:absolute;
+    left:118px;
+    top:196px;
+    width:297px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177 {
+    position:absolute;
+    left:48px;
+    top:96px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178 {
+    position:absolute;
+    left:118px;
+    top:93px;
+    width:127px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u179 {
+    position:absolute;
+    left:48px;
+    top:164px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180 {
+    position:absolute;
+    left:118px;
+    top:163px;
+    width:127px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u181 {
+    position:absolute;
+    left:258px;
+    top:166px;
+    width:27px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:285px;
+    top:164px;
+    width:122px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u183 {
+    position:absolute;
+    left:48px;
+    top:131px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184 {
+    position:absolute;
+    left:118px;
+    top:128px;
+    width:127px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u185 {
+    position:absolute;
+    left:55px;
+    top:226px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186 {
+    position:absolute;
+    left:125px;
+    top:225px;
+    width:127px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u187 {
+    position:absolute;
+    left:219px;
+    top:66px;
+    width:74px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188 {
+    position:absolute;
+    left:392px;
+    top:68px;
+    width:74px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189 {
+    position:absolute;
+    left:443px;
+    top:64px;
+    width:126px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u190 {
+    position:absolute;
+    left:293px;
+    top:66px;
+    width:80px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u191 {
+    position:absolute;
+    left:591px;
+    top:67px;
+    width:229px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192 {
+    position:absolute;
+    left:654px;
+    top:64px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u193 {
+    position:absolute;
+    left:790px;
+    top:64px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u194 {
+    position:absolute;
+    left:219px;
+    top:104px;
+    width:74px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201 {
+    position:absolute;
+    left:833px;
+    top:104px;
+    width:67px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u202_normal {
+    background-image: url('../功能模块_3_files/u0_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:15px;
+    top:14px;
+    width:1096px;
+    height:35px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204 {
+    position:absolute;
+    left:28px;
+    top:24px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../功能模块_3_files/u3_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:15px;
+    top:55px;
+    width:191px;
+    height:749px;
+}
+
+#u205_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u207_container {
+    position:absolute;
+    left:15px;
+    top:56px;
+    width:191px;
+    height:26px;
+}
+
+#u207_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u208 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u209 {
+    position:absolute;
+    left:54px;
+    top:59px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:15px;
+    top:82px;
+    width:191px;
+    height:26px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212 {
+    position:absolute;
+    left:54px;
+    top:85px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:15px;
+    top:134px;
+    width:191px;
+    height:26px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:15px;
+    top:264px;
+    width:191px;
+    height:26px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217 {
+    position:absolute;
+    left:54px;
+    top:267px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:15px;
+    top:290px;
+    width:191px;
+    height:26px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220 {
+    position:absolute;
+    left:54px;
+    top:293px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:15px;
+    top:316px;
+    width:191px;
+    height:26px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223 {
+    position:absolute;
+    left:54px;
+    top:319px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:15px;
+    top:342px;
+    width:191px;
+    height:26px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226 {
+    position:absolute;
+    left:54px;
+    top:345px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:15px;
+    top:108px;
+    width:191px;
+    height:26px;
+}
+
+#u227_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229 {
+    position:absolute;
+    left:54px;
+    top:111px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230 {
+    position:absolute;
+    left:56px;
+    top:139px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:15px;
+    top:160px;
+    width:191px;
+    height:26px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233 {
+    position:absolute;
+    left:54px;
+    top:163px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:15px;
+    top:186px;
+    width:191px;
+    height:26px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236 {
+    position:absolute;
+    left:54px;
+    top:189px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:15px;
+    top:238px;
+    width:191px;
+    height:26px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:15px;
+    top:212px;
+    width:191px;
+    height:26px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241 {
+    position:absolute;
+    left:54px;
+    top:241px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242 {
+    position:absolute;
+    left:54px;
+    top:215px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:15px;
+    top:368px;
+    width:191px;
+    height:26px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245 {
+    position:absolute;
+    left:54px;
+    top:371px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:15px;
+    top:394px;
+    width:191px;
+    height:26px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248 {
+    position:absolute;
+    left:54px;
+    top:397px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../功能模块_3_files/u5_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:15px;
+    top:420px;
+    width:191px;
+    height:26px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251 {
+    position:absolute;
+    left:54px;
+    top:423px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

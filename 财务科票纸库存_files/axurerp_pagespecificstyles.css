@@ -1,0 +1,4286 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:204px;
+    top:91px;
+    width:187px;
+    height:28px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:391px;
+    top:91px;
+    width:130px;
+    height:28px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:521px;
+    top:91px;
+    width:92px;
+    height:28px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:612px;
+    top:91px;
+    width:121px;
+    height:28px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../财务科票纸库存_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:822px;
+    top:91px;
+    width:99px;
+    height:28px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:34px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:95px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:917px;
+    top:91px;
+    width:92px;
+    height:28px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:1009px;
+    top:91px;
+    width:91px;
+    height:28px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:204px;
+    top:119px;
+    width:187px;
+    height:28px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:391px;
+    top:119px;
+    width:130px;
+    height:28px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:521px;
+    top:119px;
+    width:92px;
+    height:28px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:612px;
+    top:119px;
+    width:121px;
+    height:28px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:733px;
+    top:119px;
+    width:91px;
+    height:28px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:822px;
+    top:119px;
+    width:96px;
+    height:28px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:918px;
+    top:119px;
+    width:91px;
+    height:28px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:204px;
+    top:147px;
+    width:187px;
+    height:28px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:391px;
+    top:147px;
+    width:130px;
+    height:28px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:521px;
+    top:147px;
+    width:92px;
+    height:28px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:612px;
+    top:147px;
+    width:121px;
+    height:28px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:733px;
+    top:147px;
+    width:91px;
+    height:28px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:822px;
+    top:147px;
+    width:96px;
+    height:28px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:918px;
+    top:147px;
+    width:91px;
+    height:28px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:204px;
+    top:175px;
+    width:187px;
+    height:28px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:391px;
+    top:175px;
+    width:130px;
+    height:28px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:521px;
+    top:175px;
+    width:92px;
+    height:28px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:612px;
+    top:175px;
+    width:121px;
+    height:28px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:733px;
+    top:175px;
+    width:91px;
+    height:28px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:822px;
+    top:175px;
+    width:96px;
+    height:28px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:918px;
+    top:175px;
+    width:91px;
+    height:28px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:204px;
+    top:203px;
+    width:187px;
+    height:28px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:391px;
+    top:203px;
+    width:130px;
+    height:28px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:521px;
+    top:203px;
+    width:92px;
+    height:28px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:612px;
+    top:203px;
+    width:121px;
+    height:28px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:733px;
+    top:203px;
+    width:91px;
+    height:28px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:822px;
+    top:203px;
+    width:96px;
+    height:28px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:918px;
+    top:203px;
+    width:91px;
+    height:28px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:204px;
+    top:231px;
+    width:187px;
+    height:28px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:391px;
+    top:231px;
+    width:130px;
+    height:28px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:521px;
+    top:231px;
+    width:92px;
+    height:28px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:612px;
+    top:231px;
+    width:121px;
+    height:28px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:733px;
+    top:231px;
+    width:91px;
+    height:28px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:822px;
+    top:231px;
+    width:96px;
+    height:28px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:918px;
+    top:231px;
+    width:91px;
+    height:28px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:204px;
+    top:259px;
+    width:187px;
+    height:28px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:391px;
+    top:259px;
+    width:130px;
+    height:28px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:521px;
+    top:259px;
+    width:92px;
+    height:28px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:612px;
+    top:259px;
+    width:121px;
+    height:28px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:733px;
+    top:259px;
+    width:91px;
+    height:28px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:822px;
+    top:259px;
+    width:96px;
+    height:28px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:918px;
+    top:259px;
+    width:91px;
+    height:28px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:204px;
+    top:287px;
+    width:187px;
+    height:28px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:391px;
+    top:287px;
+    width:130px;
+    height:28px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:521px;
+    top:287px;
+    width:92px;
+    height:28px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:612px;
+    top:287px;
+    width:121px;
+    height:28px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:733px;
+    top:287px;
+    width:91px;
+    height:28px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:822px;
+    top:287px;
+    width:96px;
+    height:28px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:918px;
+    top:287px;
+    width:91px;
+    height:28px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:204px;
+    top:315px;
+    width:187px;
+    height:28px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:391px;
+    top:315px;
+    width:130px;
+    height:28px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:521px;
+    top:315px;
+    width:92px;
+    height:28px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:612px;
+    top:315px;
+    width:121px;
+    height:28px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:733px;
+    top:315px;
+    width:91px;
+    height:28px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:822px;
+    top:315px;
+    width:96px;
+    height:28px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:918px;
+    top:315px;
+    width:91px;
+    height:28px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:204px;
+    top:343px;
+    width:187px;
+    height:28px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:391px;
+    top:343px;
+    width:130px;
+    height:28px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:521px;
+    top:343px;
+    width:92px;
+    height:28px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:612px;
+    top:343px;
+    width:121px;
+    height:28px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:733px;
+    top:343px;
+    width:91px;
+    height:28px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:822px;
+    top:343px;
+    width:96px;
+    height:28px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:918px;
+    top:343px;
+    width:91px;
+    height:28px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:204px;
+    top:371px;
+    width:187px;
+    height:28px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:391px;
+    top:371px;
+    width:130px;
+    height:28px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:521px;
+    top:371px;
+    width:92px;
+    height:28px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:612px;
+    top:371px;
+    width:121px;
+    height:28px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:733px;
+    top:371px;
+    width:91px;
+    height:28px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:822px;
+    top:371px;
+    width:96px;
+    height:28px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:918px;
+    top:371px;
+    width:91px;
+    height:28px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:204px;
+    top:399px;
+    width:187px;
+    height:28px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:391px;
+    top:399px;
+    width:130px;
+    height:28px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:521px;
+    top:399px;
+    width:92px;
+    height:28px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:612px;
+    top:399px;
+    width:121px;
+    height:28px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:733px;
+    top:399px;
+    width:91px;
+    height:28px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:822px;
+    top:399px;
+    width:96px;
+    height:28px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:918px;
+    top:399px;
+    width:91px;
+    height:28px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../财务科票纸库存_files/u0_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:204px;
+    top:427px;
+    width:187px;
+    height:28px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../财务科票纸库存_files/u2_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:391px;
+    top:427px;
+    width:130px;
+    height:28px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../财务科票纸库存_files/u4_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:521px;
+    top:427px;
+    width:92px;
+    height:28px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../财务科票纸库存_files/u6_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:612px;
+    top:427px;
+    width:121px;
+    height:28px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:733px;
+    top:427px;
+    width:91px;
+    height:28px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../财务科票纸库存_files/u24_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:822px;
+    top:427px;
+    width:96px;
+    height:28px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:918px;
+    top:427px;
+    width:91px;
+    height:28px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:204px;
+    top:50px;
+    width:334px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183 {
+    position:absolute;
+    left:295px;
+    top:46px;
+    width:121px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u184 {
+    position:absolute;
+    left:463px;
+    top:46px;
+    width:156px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u185 {
+    position:absolute;
+    left:635px;
+    top:46px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u186_normal {
+    background-image: url('../财务科票纸库存_files/u186_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:733px;
+    top:91px;
+    width:89px;
+    height:28px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:34px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:85px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:1009px;
+    top:119px;
+    width:91px;
+    height:28px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:1009px;
+    top:147px;
+    width:91px;
+    height:28px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:1009px;
+    top:175px;
+    width:91px;
+    height:28px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:1009px;
+    top:203px;
+    width:91px;
+    height:28px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:1009px;
+    top:231px;
+    width:91px;
+    height:28px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:1009px;
+    top:259px;
+    width:91px;
+    height:28px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:1009px;
+    top:287px;
+    width:91px;
+    height:28px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:1009px;
+    top:315px;
+    width:91px;
+    height:28px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:1009px;
+    top:343px;
+    width:91px;
+    height:28px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:1009px;
+    top:371px;
+    width:91px;
+    height:28px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:1009px;
+    top:399px;
+    width:91px;
+    height:28px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../财务科票纸库存_files/u12_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:1009px;
+    top:427px;
+    width:91px;
+    height:28px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../票务科_1_files/u0_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:4px;
+    top:2px;
+    width:1096px;
+    height:35px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214 {
+    position:absolute;
+    left:17px;
+    top:12px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../票务科_1_files/u3_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:4px;
+    top:43px;
+    width:191px;
+    height:749px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:4px;
+    top:44px;
+    width:191px;
+    height:26px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219 {
+    position:absolute;
+    left:43px;
+    top:47px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:4px;
+    top:70px;
+    width:191px;
+    height:26px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222 {
+    position:absolute;
+    left:43px;
+    top:73px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:4px;
+    top:122px;
+    width:191px;
+    height:26px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:4px;
+    top:148px;
+    width:191px;
+    height:26px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227 {
+    position:absolute;
+    left:43px;
+    top:151px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:4px;
+    top:174px;
+    width:191px;
+    height:26px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230 {
+    position:absolute;
+    left:43px;
+    top:177px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:4px;
+    top:200px;
+    width:191px;
+    height:26px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233 {
+    position:absolute;
+    left:43px;
+    top:203px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:4px;
+    top:226px;
+    width:191px;
+    height:26px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236 {
+    position:absolute;
+    left:43px;
+    top:229px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:4px;
+    top:96px;
+    width:191px;
+    height:26px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239 {
+    position:absolute;
+    left:43px;
+    top:99px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240 {
+    position:absolute;
+    left:45px;
+    top:127px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:4px;
+    top:252px;
+    width:191px;
+    height:26px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243 {
+    position:absolute;
+    left:43px;
+    top:255px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:4px;
+    top:278px;
+    width:191px;
+    height:26px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246 {
+    position:absolute;
+    left:43px;
+    top:281px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:4px;
+    top:330px;
+    width:191px;
+    height:26px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:4px;
+    top:304px;
+    width:191px;
+    height:26px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251 {
+    position:absolute;
+    left:43px;
+    top:333px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252 {
+    position:absolute;
+    left:43px;
+    top:307px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,2875 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../散客售票界面_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:23px;
+    top:359px;
+    width:89px;
+    height:72px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:78px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:85px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:692px;
+    top:145px;
+    width:98px;
+    height:45px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:798px;
+    top:145px;
+    width:98px;
+    height:45px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:906px;
+    top:145px;
+    width:98px;
+    height:45px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:692px;
+    top:193px;
+    width:98px;
+    height:45px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:798px;
+    top:193px;
+    width:98px;
+    height:45px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:906px;
+    top:193px;
+    width:98px;
+    height:45px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:692px;
+    top:240px;
+    width:98px;
+    height:45px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:798px;
+    top:240px;
+    width:98px;
+    height:45px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:906px;
+    top:240px;
+    width:98px;
+    height:45px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:692px;
+    top:292px;
+    width:98px;
+    height:45px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:94px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:798px;
+    top:292px;
+    width:98px;
+    height:45px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:94px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../散客售票界面_files/num1_u2_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:906px;
+    top:292px;
+    width:98px;
+    height:45px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:51px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:94px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../散客售票界面_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:690px;
+    top:346px;
+    width:314px;
+    height:51px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:320px;
+    height:57px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:310px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../散客售票界面_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:121px;
+    top:359px;
+    width:89px;
+    height:72px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:78px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:85px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../散客售票界面_files/u28_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:222px;
+    top:359px;
+    width:89px;
+    height:72px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:78px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:85px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../散客售票界面_files/u28_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:323px;
+    top:359px;
+    width:89px;
+    height:72px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:78px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:85px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../散客售票界面_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:436px;
+    top:359px;
+    width:103px;
+    height:72px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:109px;
+    height:78px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:99px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../散客售票界面_files/u34_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:553px;
+    top:359px;
+    width:103px;
+    height:72px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:109px;
+    height:78px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:99px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../门票销售新模板_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:935px;
+    top:47px;
+    width:69px;
+    height:39px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:45px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../门票销售新模板_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:852px;
+    top:47px;
+    width:73px;
+    height:39px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:45px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:69px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:23px;
+    top:17px;
+    width:981px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u44_normal {
+    background-image: url('../散客售票界面_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:601px;
+    top:529px;
+    width:81px;
+    height:32px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:38px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:23px;
+    top:61px;
+    width:815px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:87px;
+    top:101px;
+    width:233px;
+    height:33px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:229px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:23px;
+    top:101px;
+    width:64px;
+    height:33px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:317px;
+    top:101px;
+    width:86px;
+    height:33px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:404px;
+    top:101px;
+    width:86px;
+    height:33px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:489px;
+    top:101px;
+    width:86px;
+    height:33px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:87px;
+    top:134px;
+    width:233px;
+    height:33px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:229px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:23px;
+    top:134px;
+    width:64px;
+    height:33px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:317px;
+    top:134px;
+    width:86px;
+    height:33px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:404px;
+    top:134px;
+    width:86px;
+    height:33px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:489px;
+    top:134px;
+    width:86px;
+    height:33px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:571px;
+    top:101px;
+    width:86px;
+    height:33px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:571px;
+    top:134px;
+    width:86px;
+    height:33px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../散客售票界面_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:436px;
+    top:138px;
+    width:11px;
+    height:25px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:31px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../散客售票界面_files/u71_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:462px;
+    top:138px;
+    width:11px;
+    height:25px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:31px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:691px;
+    top:107px;
+    width:313px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:780px;
+    top:99px;
+    width:181px;
+    height:37px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u77_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:87px;
+    top:167px;
+    width:233px;
+    height:33px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:229px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:23px;
+    top:167px;
+    width:64px;
+    height:33px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:60px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:317px;
+    top:167px;
+    width:86px;
+    height:33px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:489px;
+    top:167px;
+    width:86px;
+    height:33px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:571px;
+    top:167px;
+    width:86px;
+    height:33px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:403px;
+    top:167px;
+    width:86px;
+    height:33px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:87px;
+    top:200px;
+    width:233px;
+    height:33px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:23px;
+    top:200px;
+    width:64px;
+    height:33px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:317px;
+    top:200px;
+    width:86px;
+    height:33px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:489px;
+    top:200px;
+    width:86px;
+    height:33px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:571px;
+    top:200px;
+    width:86px;
+    height:33px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:403px;
+    top:200px;
+    width:86px;
+    height:33px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:87px;
+    top:233px;
+    width:233px;
+    height:33px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:23px;
+    top:233px;
+    width:64px;
+    height:33px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:317px;
+    top:233px;
+    width:86px;
+    height:33px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:489px;
+    top:233px;
+    width:86px;
+    height:33px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:571px;
+    top:233px;
+    width:86px;
+    height:33px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:403px;
+    top:233px;
+    width:86px;
+    height:33px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../散客售票界面_files/u47_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:87px;
+    top:266px;
+    width:233px;
+    height:33px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:239px;
+    height:39px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:229px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../散客售票界面_files/u49_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:23px;
+    top:266px;
+    width:64px;
+    height:33px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:39px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:60px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:317px;
+    top:266px;
+    width:86px;
+    height:33px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:489px;
+    top:266px;
+    width:86px;
+    height:33px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:82px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:571px;
+    top:266px;
+    width:86px;
+    height:33px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../散客售票界面_files/u51_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:403px;
+    top:266px;
+    width:86px;
+    height:33px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:39px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:82px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../散客售票界面_files/u71_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:436px;
+    top:172px;
+    width:11px;
+    height:25px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:31px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../散客售票界面_files/u71_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:462px;
+    top:172px;
+    width:11px;
+    height:25px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:17px;
+    height:31px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129 {
+    position:absolute;
+    left:23px;
+    top:316px;
+    width:641px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:106px;
+    top:314px;
+    width:116px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u131 {
+    position:absolute;
+    left:250px;
+    top:314px;
+    width:116px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u132 {
+    position:absolute;
+    left:423px;
+    top:314px;
+    width:50px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u133 {
+    position:absolute;
+    left:562px;
+    top:314px;
+    width:77px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u134_normal {
+    background-image: url('../散客售票界面_files/u26_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:690px;
+    top:399px;
+    width:314px;
+    height:51px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:320px;
+    height:57px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:310px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../散客售票界面_files/u26_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:690px;
+    top:453px;
+    width:314px;
+    height:51px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:320px;
+    height:57px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:310px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../散客售票界面_files/u138_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:692px;
+    top:510px;
+    width:155px;
+    height:51px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:57px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:151px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../散客售票界面_files/u138_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:849px;
+    top:510px;
+    width:155px;
+    height:51px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:57px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:151px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_line {
+    background-image: url('../散客售票界面_files/u142_line.png');
+}
+
+.u142_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:981px;
+    height:3px;
+}
+
+.u142 {
+    position:absolute;
+    left:23px;
+    top:85px;
+    width:981px;
+    height:10px;
+    
+}
+
+#u143 {
+    position:absolute;
+    left:690px;
+    top:454px;
+    width:314px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u144 {
+    position:absolute;
+    left:690px;
+    top:403px;
+    width:314px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u145 {
+    position:absolute;
+    left:178px;
+    top:254px;
+    width:487px;
+    height:268px;
+    overflow:hidden;
+}
+
+#pd0u145 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:487px;
+    height:268px;
+    
+}
+
+.u146_normal {
+    background-image: url('../散客售票界面_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:6px;
+    top:0px;
+    width:476px;
+    height:263px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:482px;
+    height:269px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:124px;
+    width:472px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../散客售票界面_files/u148_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:6px;
+    top:7px;
+    width:220px;
+    height:199px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:205px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:92px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:14px;
+    top:27px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151 {
+    position:absolute;
+    left:115px;
+    top:55px;
+    width:105px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_line {
+    background-image: url('../散客售票界面_files/u152_line.png');
+}
+
+.u152_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:206px;
+    height:3px;
+}
+
+.u152 {
+    position:absolute;
+    left:14px;
+    top:130px;
+    width:206px;
+    height:10px;
+    
+}
+
+.u153_normal {
+    background-image: url('../散客售票界面_files/u153_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:14px;
+    top:143px;
+    width:81px;
+    height:23px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:29px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155 {
+    position:absolute;
+    left:140px;
+    top:217px;
+    width:84px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u156_normal {
+    background-image: url('../散客售票界面_files/u153_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:14px;
+    top:170px;
+    width:81px;
+    height:23px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:29px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:20px;
+    top:216px;
+    width:109px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u159_normal {
+    background-image: url('../散客售票界面_files/u153_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:115px;
+    top:143px;
+    width:81px;
+    height:23px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:29px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../散客售票界面_files/u148_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:249px;
+    top:7px;
+    width:220px;
+    height:199px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:205px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:92px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163 {
+    position:absolute;
+    left:257px;
+    top:27px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:358px;
+    top:55px;
+    width:105px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:383px;
+    top:217px;
+    width:84px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u166 {
+    position:absolute;
+    left:263px;
+    top:216px;
+    width:109px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u167_line {
+    background-image: url('../散客售票界面_files/u167_line.png');
+}
+
+.u167_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:214px;
+    height:3px;
+}
+
+.u167 {
+    position:absolute;
+    left:249px;
+    top:150px;
+    width:214px;
+    height:10px;
+    
+}
+
+.u168 {
+    position:absolute;
+    left:257px;
+    top:168px;
+    width:206px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+

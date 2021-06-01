@@ -1,0 +1,1350 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:23px;
+    top:131px;
+    width:113px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:23px;
+    top:238px;
+    width:333px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:136px;
+    top:238px;
+    width:185px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:23px;
+    top:280px;
+    width:100px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:43px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:46px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:50px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u10 {
+    position:absolute;
+    left:394px;
+    top:931px;
+    width:555px;
+    height:201px;
+    overflow:hidden;
+}
+
+#pd0u10 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:555px;
+    height:201px;
+    
+}
+
+.u11_normal {
+    background-image: url('../免费票换票_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:6px;
+    top:0px;
+    width:538px;
+    height:204px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:544px;
+    height:210px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:94px;
+    width:534px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../免费票换票_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:10px;
+    top:5px;
+    width:526px;
+    height:190px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:532px;
+    height:196px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:87px;
+    width:522px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:20px;
+    top:14px;
+    width:200px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:20px;
+    top:45px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:88px;
+    top:42px;
+    width:106px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u18 {
+    position:absolute;
+    left:204px;
+    top:42px;
+    width:70px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u19 {
+    position:absolute;
+    left:284px;
+    top:42px;
+    width:242px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:20px;
+    top:73px;
+    width:83px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:102px;
+    top:73px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:102px;
+    top:97px;
+    width:197px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:102px;
+    top:120px;
+    width:231px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:102px;
+    top:143px;
+    width:231px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:102px;
+    top:166px;
+    width:231px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u26 {
+    position:absolute;
+    left:132px;
+    top:968px;
+    width:555px;
+    height:201px;
+    overflow:hidden;
+}
+
+#pd0u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:555px;
+    height:201px;
+    
+}
+
+.u27_normal {
+    background-image: url('../免费票换票_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:6px;
+    top:0px;
+    width:548px;
+    height:200px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:554px;
+    height:206px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:92px;
+    width:544px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../免费票换票_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:15px;
+    top:10px;
+    width:526px;
+    height:179px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:532px;
+    height:185px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:82px;
+    width:522px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:25px;
+    top:20px;
+    width:200px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:25px;
+    top:54px;
+    width:92px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:107px;
+    top:52px;
+    width:97px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:225px;
+    top:52px;
+    width:70px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:289px;
+    top:52px;
+    width:74px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u36 {
+    position:absolute;
+    left:28px;
+    top:90px;
+    width:228px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:107px;
+    top:88px;
+    width:69px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:28px;
+    top:124px;
+    width:96px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:124px;
+    top:124px;
+    width:155px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u40 {
+    position:absolute;
+    left:26px;
+    top:158px;
+    width:100px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:43px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:46px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:50px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:136px;
+    top:127px;
+    width:220px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:23px;
+    top:166px;
+    width:113px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:136px;
+    top:162px;
+    width:220px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u50_normal {
+    background-image: url('../门票销售新模板_files/u38_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:935px;
+    top:47px;
+    width:69px;
+    height:39px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:45px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../门票销售新模板_files/u40_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:852px;
+    top:47px;
+    width:73px;
+    height:39px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:45px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:69px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:23px;
+    top:17px;
+    width:981px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u56 {
+    position:absolute;
+    left:23px;
+    top:61px;
+    width:815px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_line {
+    background-image: url('../免费票换票_files/u57_line.png');
+}
+
+.u57_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:981px;
+    height:3px;
+}
+
+.u57 {
+    position:absolute;
+    left:23px;
+    top:94px;
+    width:981px;
+    height:10px;
+    
+}
+
+.u58_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:453px;
+    top:125px;
+    width:100px;
+    height:47px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:561px;
+    top:125px;
+    width:100px;
+    height:47px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:671px;
+    top:125px;
+    width:100px;
+    height:47px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:453px;
+    top:175px;
+    width:100px;
+    height:47px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:561px;
+    top:175px;
+    width:100px;
+    height:47px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:671px;
+    top:175px;
+    width:100px;
+    height:47px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:453px;
+    top:225px;
+    width:100px;
+    height:47px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:561px;
+    top:225px;
+    width:100px;
+    height:47px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:671px;
+    top:225px;
+    width:100px;
+    height:47px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:453px;
+    top:278px;
+    width:100px;
+    height:47px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:96px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:561px;
+    top:278px;
+    width:100px;
+    height:47px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:96px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../免费票换票_files/u58_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:671px;
+    top:278px;
+    width:100px;
+    height:47px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:96px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:23px;
+    top:207px;
+    width:113px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:136px;
+    top:203px;
+    width:220px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u84_line {
+    background-image: url('../免费票换票_files/u84_line.png');
+}
+
+.u84_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:284px;
+}
+
+.u84 {
+    position:absolute;
+    left:410px;
+    top:125px;
+    width:10px;
+    height:284px;
+    
+}
+
+.u85 {
+    position:absolute;
+    left:453px;
+    top:335px;
+    width:318px;
+    height:45px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u87 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:453px;
+    top:390px;
+    width:69px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,4113 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:212px;
+    top:47px;
+    width:236px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:341px;
+    top:164px;
+    width:92px;
+    height:25px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:432px;
+    top:164px;
+    width:158px;
+    height:25px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:218px;
+    top:164px;
+    width:123px;
+    height:25px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:31px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:746px;
+    top:164px;
+    width:108px;
+    height:25px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:951px;
+    top:164px;
+    width:148px;
+    height:25px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:1008px;
+    top:125px;
+    width:95px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u12 {
+    position:absolute;
+    left:212px;
+    top:83px;
+    width:69px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:277px;
+    top:80px;
+    width:125px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:441px;
+    top:84px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:511px;
+    top:80px;
+    width:159px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u16_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:853px;
+    top:164px;
+    width:97px;
+    height:25px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:212px;
+    top:119px;
+    width:78px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:341px;
+    top:189px;
+    width:92px;
+    height:25px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:432px;
+    top:189px;
+    width:158px;
+    height:25px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:218px;
+    top:189px;
+    width:123px;
+    height:121px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:127px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:746px;
+    top:189px;
+    width:108px;
+    height:25px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:951px;
+    top:189px;
+    width:148px;
+    height:25px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:853px;
+    top:189px;
+    width:97px;
+    height:25px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:511px;
+    top:113px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38_line {
+    background-image: url('../门票价格及使用时间段设置_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:891px;
+    height:3px;
+}
+
+.u38 {
+    position:absolute;
+    left:212px;
+    top:150px;
+    width:891px;
+    height:10px;
+    
+}
+
+.u39_normal {
+    background-image: url('../系统设置_1_files/u0_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:7px;
+    top:5px;
+    width:1096px;
+    height:35px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../系统设置_1_files/u3_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:7px;
+    top:46px;
+    width:191px;
+    height:749px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:7px;
+    top:47px;
+    width:191px;
+    height:26px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:46px;
+    top:50px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:7px;
+    top:73px;
+    width:191px;
+    height:26px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:46px;
+    top:76px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:7px;
+    top:125px;
+    width:191px;
+    height:26px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:7px;
+    top:229px;
+    width:191px;
+    height:26px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:46px;
+    top:232px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:7px;
+    top:255px;
+    width:191px;
+    height:26px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:46px;
+    top:258px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:7px;
+    top:281px;
+    width:191px;
+    height:26px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:46px;
+    top:284px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:7px;
+    top:307px;
+    width:191px;
+    height:26px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:46px;
+    top:310px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:7px;
+    top:99px;
+    width:191px;
+    height:26px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:46px;
+    top:102px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:48px;
+    top:130px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:7px;
+    top:151px;
+    width:191px;
+    height:26px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:46px;
+    top:154px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:7px;
+    top:177px;
+    width:191px;
+    height:26px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:46px;
+    top:180px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:7px;
+    top:541px;
+    width:191px;
+    height:26px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:7px;
+    top:203px;
+    width:191px;
+    height:26px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:46px;
+    top:544px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:46px;
+    top:206px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:7px;
+    top:333px;
+    width:191px;
+    height:26px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:46px;
+    top:336px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:7px;
+    top:359px;
+    width:191px;
+    height:26px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:46px;
+    top:362px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:7px;
+    top:385px;
+    width:191px;
+    height:26px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:46px;
+    top:388px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:7px;
+    top:411px;
+    width:191px;
+    height:26px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:46px;
+    top:414px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:7px;
+    top:437px;
+    width:191px;
+    height:26px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:46px;
+    top:440px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:7px;
+    top:463px;
+    width:191px;
+    height:26px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:46px;
+    top:466px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:7px;
+    top:489px;
+    width:191px;
+    height:26px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:46px;
+    top:492px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:7px;
+    top:515px;
+    width:191px;
+    height:26px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:46px;
+    top:518px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:590px;
+    top:164px;
+    width:156px;
+    height:25px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:590px;
+    top:189px;
+    width:156px;
+    height:25px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:341px;
+    top:214px;
+    width:92px;
+    height:25px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:432px;
+    top:214px;
+    width:158px;
+    height:25px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:746px;
+    top:214px;
+    width:108px;
+    height:25px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:951px;
+    top:214px;
+    width:148px;
+    height:25px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:853px;
+    top:214px;
+    width:97px;
+    height:25px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:590px;
+    top:214px;
+    width:156px;
+    height:25px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u121_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:341px;
+    top:239px;
+    width:92px;
+    height:46px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:52px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u123_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:432px;
+    top:239px;
+    width:158px;
+    height:46px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:52px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:154px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u125_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:746px;
+    top:239px;
+    width:108px;
+    height:46px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:52px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u127_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:951px;
+    top:239px;
+    width:148px;
+    height:46px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:52px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u129_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:853px;
+    top:239px;
+    width:97px;
+    height:46px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:52px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u131_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:590px;
+    top:239px;
+    width:156px;
+    height:46px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:52px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:341px;
+    top:285px;
+    width:92px;
+    height:25px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:432px;
+    top:285px;
+    width:158px;
+    height:25px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:746px;
+    top:285px;
+    width:108px;
+    height:25px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:951px;
+    top:285px;
+    width:148px;
+    height:25px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:853px;
+    top:285px;
+    width:97px;
+    height:25px;
+}
+
+#u141_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:590px;
+    top:285px;
+    width:156px;
+    height:25px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:341px;
+    top:310px;
+    width:92px;
+    height:25px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:432px;
+    top:310px;
+    width:158px;
+    height:25px;
+}
+
+#u147_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u29_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:218px;
+    top:310px;
+    width:123px;
+    height:121px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:127px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:746px;
+    top:310px;
+    width:108px;
+    height:25px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:951px;
+    top:310px;
+    width:148px;
+    height:25px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:853px;
+    top:310px;
+    width:97px;
+    height:25px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:590px;
+    top:310px;
+    width:156px;
+    height:25px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:341px;
+    top:335px;
+    width:92px;
+    height:25px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:432px;
+    top:335px;
+    width:158px;
+    height:25px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:746px;
+    top:335px;
+    width:108px;
+    height:25px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:951px;
+    top:335px;
+    width:148px;
+    height:25px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:853px;
+    top:335px;
+    width:97px;
+    height:25px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:590px;
+    top:335px;
+    width:156px;
+    height:25px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u121_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:341px;
+    top:360px;
+    width:92px;
+    height:46px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:52px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u123_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:432px;
+    top:360px;
+    width:158px;
+    height:46px;
+}
+
+#u173_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:52px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:154px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u125_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:746px;
+    top:360px;
+    width:108px;
+    height:46px;
+}
+
+#u175_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:52px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u127_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:951px;
+    top:360px;
+    width:148px;
+    height:46px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:52px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u129_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:853px;
+    top:360px;
+    width:97px;
+    height:46px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:52px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u131_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:590px;
+    top:360px;
+    width:156px;
+    height:46px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:52px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:15px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:341px;
+    top:406px;
+    width:92px;
+    height:25px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:432px;
+    top:406px;
+    width:158px;
+    height:25px;
+}
+
+#u185_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:746px;
+    top:406px;
+    width:108px;
+    height:25px;
+}
+
+#u187_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:951px;
+    top:406px;
+    width:148px;
+    height:25px;
+}
+
+#u189_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:853px;
+    top:406px;
+    width:97px;
+    height:25px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:590px;
+    top:406px;
+    width:156px;
+    height:25px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:341px;
+    top:431px;
+    width:92px;
+    height:25px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:432px;
+    top:431px;
+    width:158px;
+    height:25px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u199_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:218px;
+    top:431px;
+    width:123px;
+    height:50px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:56px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:746px;
+    top:431px;
+    width:108px;
+    height:25px;
+}
+
+#u201_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u203_container {
+    position:absolute;
+    left:951px;
+    top:431px;
+    width:148px;
+    height:25px;
+}
+
+#u203_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:853px;
+    top:431px;
+    width:97px;
+    height:25px;
+}
+
+#u205_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u207_container {
+    position:absolute;
+    left:590px;
+    top:431px;
+    width:156px;
+    height:25px;
+}
+
+#u207_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u208 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u209_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u209_container {
+    position:absolute;
+    left:341px;
+    top:456px;
+    width:92px;
+    height:25px;
+}
+
+#u209_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u210 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:432px;
+    top:456px;
+    width:158px;
+    height:25px;
+}
+
+#u211_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:746px;
+    top:456px;
+    width:108px;
+    height:25px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:951px;
+    top:456px;
+    width:148px;
+    height:25px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:853px;
+    top:456px;
+    width:97px;
+    height:25px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:590px;
+    top:456px;
+    width:156px;
+    height:25px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:341px;
+    top:481px;
+    width:92px;
+    height:25px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:432px;
+    top:481px;
+    width:158px;
+    height:25px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u5_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:218px;
+    top:481px;
+    width:123px;
+    height:25px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:31px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:746px;
+    top:481px;
+    width:108px;
+    height:25px;
+}
+
+#u227_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:951px;
+    top:481px;
+    width:148px;
+    height:25px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:853px;
+    top:481px;
+    width:97px;
+    height:25px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:590px;
+    top:481px;
+    width:156px;
+    height:25px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u1_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:341px;
+    top:506px;
+    width:92px;
+    height:25px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:31px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u3_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:432px;
+    top:506px;
+    width:158px;
+    height:25px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:31px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u7_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:746px;
+    top:506px;
+    width:108px;
+    height:25px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:114px;
+    height:31px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u9_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:951px;
+    top:506px;
+    width:148px;
+    height:25px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:31px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u16_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:853px;
+    top:506px;
+    width:97px;
+    height:25px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:31px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u105_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:590px;
+    top:506px;
+    width:156px;
+    height:25px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:162px;
+    height:31px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:152px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../门票价格及使用时间段设置_files/u5_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:218px;
+    top:506px;
+    width:123px;
+    height:25px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:31px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

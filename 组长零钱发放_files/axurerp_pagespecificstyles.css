@@ -1,0 +1,2985 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:222px;
+    top:48px;
+    width:81px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_normal {
+    background-image: url('../组长零钱发放_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:222px;
+    top:417px;
+    width:146px;
+    height:26px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:32px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../组长零钱发放_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:368px;
+    top:417px;
+    width:174px;
+    height:26px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:32px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:542px;
+    top:417px;
+    width:195px;
+    height:26px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:738px;
+    top:417px;
+    width:195px;
+    height:26px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../组长零钱发放_files/u1_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:222px;
+    top:443px;
+    width:146px;
+    height:26px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:32px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../组长零钱发放_files/u3_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:368px;
+    top:443px;
+    width:174px;
+    height:26px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:32px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:542px;
+    top:443px;
+    width:195px;
+    height:26px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:738px;
+    top:443px;
+    width:195px;
+    height:26px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../组长零钱发放_files/u1_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:222px;
+    top:469px;
+    width:146px;
+    height:26px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:32px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../组长零钱发放_files/u3_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:368px;
+    top:469px;
+    width:174px;
+    height:26px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:32px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:542px;
+    top:469px;
+    width:195px;
+    height:26px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:738px;
+    top:469px;
+    width:195px;
+    height:26px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../组长零钱发放_files/u1_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:222px;
+    top:495px;
+    width:146px;
+    height:26px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:32px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../组长零钱发放_files/u3_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:368px;
+    top:495px;
+    width:174px;
+    height:26px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:32px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:542px;
+    top:495px;
+    width:195px;
+    height:26px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:738px;
+    top:495px;
+    width:195px;
+    height:26px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../组长零钱发放_files/u1_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:222px;
+    top:521px;
+    width:146px;
+    height:26px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:32px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../组长零钱发放_files/u3_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:368px;
+    top:521px;
+    width:174px;
+    height:26px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:542px;
+    top:521px;
+    width:195px;
+    height:26px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../组长零钱发放_files/u5_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:738px;
+    top:521px;
+    width:195px;
+    height:26px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:32px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_line {
+    background-image: url('../组长零钱发放_files/u41_line.png');
+}
+
+.u41_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:711px;
+    height:3px;
+}
+
+.u41 {
+    position:absolute;
+    left:222px;
+    top:376px;
+    width:711px;
+    height:10px;
+    
+}
+
+.u42 {
+    position:absolute;
+    left:222px;
+    top:79px;
+    width:228px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../组长零钱发放_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:222px;
+    top:108px;
+    width:221px;
+    height:215px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:221px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:100px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../组长零钱发放_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:680px;
+    top:108px;
+    width:244px;
+    height:215px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:250px;
+    height:221px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:100px;
+    width:240px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:680px;
+    top:79px;
+    width:244px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:471px;
+    top:117px;
+    width:161px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u49 {
+    position:absolute;
+    left:471px;
+    top:157px;
+    width:161px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u50 {
+    position:absolute;
+    left:471px;
+    top:247px;
+    width:161px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u51 {
+    position:absolute;
+    left:471px;
+    top:287px;
+    width:161px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u53 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:198px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:513px;
+    top:338px;
+    width:81px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u69 {
+    position:absolute;
+    left:222px;
+    top:344px;
+    width:291px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:366px;
+    top:341px;
+    width:112px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u71_normal {
+    background-image: url('../组长零钱发放_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:222px;
+    top:389px;
+    width:97px;
+    height:27px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:33px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../组长零钱发放_files/u71_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:319px;
+    top:389px;
+    width:97px;
+    height:27px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:33px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u75 {
+    position:absolute;
+    left:216px;
+    top:406px;
+    width:727px;
+    height:166px;
+    overflow:hidden;
+}
+
+#pd0u75 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:727px;
+    height:166px;
+    
+}
+
+.u76_normal {
+    background-image: url('../组长零钱发放_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:5px;
+    top:10px;
+    width:715px;
+    height:142px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:721px;
+    height:148px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:63px;
+    width:711px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../组长零钱发放_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:9px;
+    top:12px;
+    width:116px;
+    height:26px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:32px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:264px;
+    top:12px;
+    width:138px;
+    height:26px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:403px;
+    top:12px;
+    width:155px;
+    height:26px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:558px;
+    top:12px;
+    width:155px;
+    height:26px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../组长零钱发放_files/u78_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:9px;
+    top:38px;
+    width:116px;
+    height:26px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:32px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:264px;
+    top:38px;
+    width:138px;
+    height:26px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:403px;
+    top:38px;
+    width:155px;
+    height:26px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:558px;
+    top:38px;
+    width:155px;
+    height:26px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../组长零钱发放_files/u78_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:9px;
+    top:64px;
+    width:116px;
+    height:26px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:32px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:264px;
+    top:64px;
+    width:138px;
+    height:26px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:403px;
+    top:64px;
+    width:155px;
+    height:26px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:558px;
+    top:64px;
+    width:155px;
+    height:26px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../组长零钱发放_files/u78_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:9px;
+    top:91px;
+    width:116px;
+    height:26px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:32px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:264px;
+    top:90px;
+    width:138px;
+    height:26px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:403px;
+    top:90px;
+    width:155px;
+    height:26px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:558px;
+    top:90px;
+    width:155px;
+    height:26px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../组长零钱发放_files/u78_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:9px;
+    top:116px;
+    width:116px;
+    height:26px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:32px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:264px;
+    top:115px;
+    width:138px;
+    height:26px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:403px;
+    top:115px;
+    width:155px;
+    height:26px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../组长零钱发放_files/u82_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:558px;
+    top:115px;
+    width:155px;
+    height:26px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:32px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:151px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:126px;
+    top:12px;
+    width:138px;
+    height:26px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:125px;
+    top:38px;
+    width:138px;
+    height:26px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:125px;
+    top:64px;
+    width:138px;
+    height:26px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:126px;
+    top:90px;
+    width:138px;
+    height:26px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../组长零钱发放_files/u80_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:126px;
+    top:116px;
+    width:138px;
+    height:26px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:32px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../后台组长模块_files/u0_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:10px;
+    top:6px;
+    width:1096px;
+    height:35px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130 {
+    position:absolute;
+    left:23px;
+    top:16px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../后台组长模块_files/u3_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:10px;
+    top:47px;
+    width:191px;
+    height:749px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:10px;
+    top:48px;
+    width:191px;
+    height:26px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135 {
+    position:absolute;
+    left:49px;
+    top:51px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:10px;
+    top:74px;
+    width:191px;
+    height:26px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:49px;
+    top:77px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:10px;
+    top:100px;
+    width:191px;
+    height:26px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141 {
+    position:absolute;
+    left:49px;
+    top:103px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:10px;
+    top:126px;
+    width:191px;
+    height:26px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:49px;
+    top:129px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:10px;
+    top:152px;
+    width:191px;
+    height:26px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147 {
+    position:absolute;
+    left:49px;
+    top:155px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:10px;
+    top:178px;
+    width:191px;
+    height:26px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150 {
+    position:absolute;
+    left:49px;
+    top:181px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:10px;
+    top:204px;
+    width:191px;
+    height:26px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153 {
+    position:absolute;
+    left:49px;
+    top:207px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:10px;
+    top:256px;
+    width:191px;
+    height:26px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:49px;
+    top:259px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:10px;
+    top:308px;
+    width:191px;
+    height:26px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159 {
+    position:absolute;
+    left:49px;
+    top:311px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:10px;
+    top:334px;
+    width:191px;
+    height:26px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:49px;
+    top:337px;
+    width:142px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:10px;
+    top:230px;
+    width:191px;
+    height:26px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:49px;
+    top:233px;
+    width:142px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:10px;
+    top:360px;
+    width:191px;
+    height:26px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168 {
+    position:absolute;
+    left:49px;
+    top:363px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:10px;
+    top:386px;
+    width:191px;
+    height:26px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171 {
+    position:absolute;
+    left:49px;
+    top:389px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:10px;
+    top:412px;
+    width:191px;
+    height:26px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:49px;
+    top:415px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:10px;
+    top:438px;
+    width:191px;
+    height:26px;
+}
+
+#u175_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177 {
+    position:absolute;
+    left:49px;
+    top:441px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:10px;
+    top:490px;
+    width:191px;
+    height:26px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:10px;
+    top:464px;
+    width:191px;
+    height:26px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:49px;
+    top:493px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../后台组长模块_files/u5_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:10px;
+    top:282px;
+    width:191px;
+    height:26px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185 {
+    position:absolute;
+    left:49px;
+    top:285px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186 {
+    position:absolute;
+    left:49px;
+    top:467px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,2842 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../票样管理_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:236px;
+    top:159px;
+    width:88px;
+    height:25px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:31px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../票样管理_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:324px;
+    top:159px;
+    width:142px;
+    height:25px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:31px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../票样管理_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:644px;
+    top:159px;
+    width:93px;
+    height:25px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:31px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../票样管理_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:466px;
+    top:159px;
+    width:178px;
+    height:25px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:31px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../票样管理_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:737px;
+    top:159px;
+    width:91px;
+    height:25px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:31px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../票样管理_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:1086px;
+    top:159px;
+    width:117px;
+    height:25px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:31px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../票样管理_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:828px;
+    top:159px;
+    width:258px;
+    height:25px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:31px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../票样管理_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:236px;
+    top:184px;
+    width:88px;
+    height:96px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:102px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../票样管理_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:324px;
+    top:184px;
+    width:142px;
+    height:96px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:102px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../票样管理_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:644px;
+    top:184px;
+    width:93px;
+    height:96px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:102px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../票样管理_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:466px;
+    top:184px;
+    width:178px;
+    height:96px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:102px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../票样管理_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:737px;
+    top:184px;
+    width:91px;
+    height:96px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:102px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../票样管理_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:1086px;
+    top:184px;
+    width:117px;
+    height:96px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:102px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../票样管理_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:828px;
+    top:184px;
+    width:258px;
+    height:96px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:102px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../票样管理_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:856px;
+    top:194px;
+    width:220px;
+    height:76px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:82px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:232px;
+    top:70px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:298px;
+    top:67px;
+    width:152px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u32 {
+    position:absolute;
+    left:232px;
+    top:115px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:302px;
+    top:114px;
+    width:80px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:783px;
+    top:111px;
+    width:67px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u35 {
+    position:absolute;
+    left:483px;
+    top:70px;
+    width:231px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:547px;
+    top:67px;
+    width:136px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u37 {
+    position:absolute;
+    left:714px;
+    top:67px;
+    width:136px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:425px;
+    top:115px;
+    width:70px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:495px;
+    top:114px;
+    width:80px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u40_normal {
+    background-image: url('../票样管理_files/u14_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:236px;
+    top:280px;
+    width:88px;
+    height:96px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:102px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../票样管理_files/u16_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:324px;
+    top:280px;
+    width:142px;
+    height:96px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:102px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../票样管理_files/u18_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:644px;
+    top:280px;
+    width:93px;
+    height:96px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:102px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../票样管理_files/u20_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:466px;
+    top:280px;
+    width:178px;
+    height:96px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:102px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../票样管理_files/u22_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:737px;
+    top:280px;
+    width:91px;
+    height:96px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:102px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../票样管理_files/u24_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:1086px;
+    top:280px;
+    width:117px;
+    height:96px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:102px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../票样管理_files/u26_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:828px;
+    top:280px;
+    width:258px;
+    height:96px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:102px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../票样管理_files/u28_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:856px;
+    top:290px;
+    width:220px;
+    height:76px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:82px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../票样管理_files/u14_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:236px;
+    top:376px;
+    width:88px;
+    height:96px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:102px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../票样管理_files/u16_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:324px;
+    top:376px;
+    width:142px;
+    height:96px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:102px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../票样管理_files/u18_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:644px;
+    top:376px;
+    width:93px;
+    height:96px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:102px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../票样管理_files/u20_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:466px;
+    top:376px;
+    width:178px;
+    height:96px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:102px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../票样管理_files/u22_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:737px;
+    top:376px;
+    width:91px;
+    height:96px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:102px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../票样管理_files/u24_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:1086px;
+    top:376px;
+    width:117px;
+    height:96px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:102px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../票样管理_files/u26_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:828px;
+    top:376px;
+    width:258px;
+    height:96px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:102px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../票样管理_files/u28_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:856px;
+    top:386px;
+    width:220px;
+    height:76px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:82px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../票样管理_files/u14_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:236px;
+    top:472px;
+    width:88px;
+    height:96px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:102px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../票样管理_files/u16_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:324px;
+    top:472px;
+    width:142px;
+    height:96px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:102px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../票样管理_files/u18_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:644px;
+    top:472px;
+    width:93px;
+    height:96px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:102px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../票样管理_files/u20_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:466px;
+    top:472px;
+    width:178px;
+    height:96px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:102px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../票样管理_files/u22_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:737px;
+    top:472px;
+    width:91px;
+    height:96px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:102px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../票样管理_files/u24_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:1086px;
+    top:472px;
+    width:117px;
+    height:96px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:102px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../票样管理_files/u26_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:828px;
+    top:472px;
+    width:258px;
+    height:96px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:102px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../票样管理_files/u28_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:856px;
+    top:482px;
+    width:220px;
+    height:76px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:82px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../票样管理_files/u14_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:236px;
+    top:568px;
+    width:88px;
+    height:96px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:102px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../票样管理_files/u16_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:324px;
+    top:568px;
+    width:142px;
+    height:96px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:102px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../票样管理_files/u18_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:644px;
+    top:568px;
+    width:93px;
+    height:96px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:102px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:89px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../票样管理_files/u20_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:466px;
+    top:568px;
+    width:178px;
+    height:96px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:102px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:174px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../票样管理_files/u22_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:737px;
+    top:568px;
+    width:91px;
+    height:96px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:102px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../票样管理_files/u24_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:1086px;
+    top:568px;
+    width:117px;
+    height:96px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:123px;
+    height:102px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../票样管理_files/u26_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:828px;
+    top:568px;
+    width:258px;
+    height:96px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:264px;
+    height:102px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:254px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../票样管理_files/u28_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:856px;
+    top:578px;
+    width:220px;
+    height:76px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:82px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:216px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:365px;
+    top:680px;
+    width:550px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../系统设置_1_files/u0_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:27px;
+    top:25px;
+    width:1096px;
+    height:35px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:40px;
+    top:35px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../系统设置_1_files/u3_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:27px;
+    top:66px;
+    width:191px;
+    height:749px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:27px;
+    top:67px;
+    width:191px;
+    height:26px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:66px;
+    top:70px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:27px;
+    top:93px;
+    width:191px;
+    height:26px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:66px;
+    top:96px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:27px;
+    top:145px;
+    width:191px;
+    height:26px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:27px;
+    top:249px;
+    width:191px;
+    height:26px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120 {
+    position:absolute;
+    left:66px;
+    top:252px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:27px;
+    top:275px;
+    width:191px;
+    height:26px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:66px;
+    top:278px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:27px;
+    top:301px;
+    width:191px;
+    height:26px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126 {
+    position:absolute;
+    left:66px;
+    top:304px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:27px;
+    top:327px;
+    width:191px;
+    height:26px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129 {
+    position:absolute;
+    left:66px;
+    top:330px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:27px;
+    top:119px;
+    width:191px;
+    height:26px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:66px;
+    top:122px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:68px;
+    top:150px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:27px;
+    top:171px;
+    width:191px;
+    height:26px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:66px;
+    top:174px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:27px;
+    top:197px;
+    width:191px;
+    height:26px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:66px;
+    top:200px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:27px;
+    top:561px;
+    width:191px;
+    height:26px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:27px;
+    top:223px;
+    width:191px;
+    height:26px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:66px;
+    top:564px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:66px;
+    top:226px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:27px;
+    top:353px;
+    width:191px;
+    height:26px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:66px;
+    top:356px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:27px;
+    top:379px;
+    width:191px;
+    height:26px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151 {
+    position:absolute;
+    left:66px;
+    top:382px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:27px;
+    top:405px;
+    width:191px;
+    height:26px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:66px;
+    top:408px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:27px;
+    top:431px;
+    width:191px;
+    height:26px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157 {
+    position:absolute;
+    left:66px;
+    top:434px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:27px;
+    top:457px;
+    width:191px;
+    height:26px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:66px;
+    top:460px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:27px;
+    top:483px;
+    width:191px;
+    height:26px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163 {
+    position:absolute;
+    left:66px;
+    top:486px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:27px;
+    top:509px;
+    width:191px;
+    height:26px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166 {
+    position:absolute;
+    left:66px;
+    top:512px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../系统设置_1_files/u5_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:27px;
+    top:535px;
+    width:191px;
+    height:26px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169 {
+    position:absolute;
+    left:66px;
+    top:538px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

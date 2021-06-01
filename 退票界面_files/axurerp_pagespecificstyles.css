@@ -1,0 +1,1566 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../退票界面_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:23px;
+    top:130px;
+    width:598px;
+    height:82px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:604px;
+    height:88px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:594px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:37px;
+    top:142px;
+    width:95px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:89px;
+    top:142px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 14px;
+    color:#000000;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:540px;
+    top:177px;
+    width:66px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u5_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:691px;
+    top:104px;
+    width:99px;
+    height:50px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:798px;
+    top:104px;
+    width:99px;
+    height:50px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:905px;
+    top:104px;
+    width:99px;
+    height:50px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:691px;
+    top:157px;
+    width:99px;
+    height:50px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:798px;
+    top:157px;
+    width:99px;
+    height:50px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:905px;
+    top:157px;
+    width:99px;
+    height:50px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:691px;
+    top:209px;
+    width:99px;
+    height:50px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:798px;
+    top:209px;
+    width:99px;
+    height:50px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:905px;
+    top:209px;
+    width:99px;
+    height:50px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:691px;
+    top:265px;
+    width:99px;
+    height:50px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:95px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../退票界面_files/u5_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:798px;
+    top:265px;
+    width:99px;
+    height:50px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:56px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:95px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../退票界面_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:905px;
+    top:264px;
+    width:99px;
+    height:52px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:58px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:95px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../退票界面_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:531px;
+}
+
+.u29 {
+    position:absolute;
+    left:671px;
+    top:94px;
+    width:10px;
+    height:531px;
+    
+}
+
+.u30 {
+    position:absolute;
+    left:27px;
+    top:104px;
+    width:349px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:27px;
+    top:225px;
+    width:165px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../退票界面_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:27px;
+    top:257px;
+    width:76px;
+    height:39px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:45px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../退票界面_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:103px;
+    top:257px;
+    width:81px;
+    height:39px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:45px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:77px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../退票界面_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:184px;
+    top:257px;
+    width:90px;
+    height:39px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:45px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:86px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../退票界面_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:524px;
+    top:257px;
+    width:61px;
+    height:39px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:67px;
+    height:45px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:57px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../退票界面_files/u32_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:585px;
+    top:257px;
+    width:76px;
+    height:39px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:45px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../门票销售新模板_files/u38_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:935px;
+    top:43px;
+    width:69px;
+    height:39px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:45px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../门票销售新模板_files/u40_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:852px;
+    top:43px;
+    width:73px;
+    height:39px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:45px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:69px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:23px;
+    top:13px;
+    width:981px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:23px;
+    top:57px;
+    width:815px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_line {
+    background-image: url('../退票界面_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:981px;
+    height:3px;
+}
+
+.u49 {
+    position:absolute;
+    left:23px;
+    top:84px;
+    width:981px;
+    height:10px;
+    
+}
+
+.u50 {
+    position:absolute;
+    left:37px;
+    top:177px;
+    width:106px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:143px;
+    top:177px;
+    width:271px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 14px;
+    color:#000000;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:none;
+    
+}
+
+.u52 {
+    position:absolute;
+    left:220px;
+    top:142px;
+    width:95px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:304px;
+    top:139px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 14px;
+    color:#000000;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:none;
+    
+}
+
+.u54_normal {
+    background-image: url('../退票界面_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:274px;
+    top:257px;
+    width:52px;
+    height:39px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:58px;
+    height:45px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:48px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../退票界面_files/u56_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:326px;
+    top:257px;
+    width:125px;
+    height:39px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:45px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../退票界面_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:451px;
+    top:257px;
+    width:73px;
+    height:39px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:45px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:69px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../退票界面_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:27px;
+    top:296px;
+    width:76px;
+    height:59px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:65px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../退票界面_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:103px;
+    top:296px;
+    width:81px;
+    height:59px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:65px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../退票界面_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:184px;
+    top:296px;
+    width:90px;
+    height:59px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:65px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:86px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../退票界面_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:524px;
+    top:296px;
+    width:61px;
+    height:59px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:67px;
+    height:65px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:57px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../退票界面_files/u60_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:585px;
+    top:296px;
+    width:76px;
+    height:59px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:65px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../退票界面_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:274px;
+    top:296px;
+    width:52px;
+    height:59px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:58px;
+    height:65px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:48px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../退票界面_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:326px;
+    top:296px;
+    width:125px;
+    height:59px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:65px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:121px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../退票界面_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:451px;
+    top:296px;
+    width:73px;
+    height:59px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:65px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:69px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../退票界面_files/u60_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:27px;
+    top:355px;
+    width:76px;
+    height:59px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:65px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../退票界面_files/u62_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:103px;
+    top:355px;
+    width:81px;
+    height:59px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:65px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../退票界面_files/u64_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:184px;
+    top:355px;
+    width:90px;
+    height:59px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:65px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:86px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../退票界面_files/u66_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:524px;
+    top:355px;
+    width:61px;
+    height:59px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:67px;
+    height:65px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:57px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../退票界面_files/u60_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:585px;
+    top:355px;
+    width:76px;
+    height:59px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:65px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:72px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../退票界面_files/u70_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:274px;
+    top:355px;
+    width:52px;
+    height:59px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:58px;
+    height:65px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:48px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../退票界面_files/u72_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:326px;
+    top:355px;
+    width:125px;
+    height:59px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:65px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:121px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../退票界面_files/u74_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:451px;
+    top:355px;
+    width:73px;
+    height:59px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:65px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:69px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,1434 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:931px;
+    top:103px;
+    width:67px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u1 {
+    position:absolute;
+    left:30px;
+    top:83px;
+    width:215px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:95px;
+    top:79px;
+    width:120px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:237px;
+    top:79px;
+    width:120px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:511px;
+    top:80px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:570px;
+    top:80px;
+    width:62px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u6_normal {
+    background-image: url('../窗口现金统计_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:31px;
+    top:174px;
+    width:182px;
+    height:34px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:188px;
+    height:40px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:178px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../窗口现金统计_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:213px;
+    top:174px;
+    width:191px;
+    height:34px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:40px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../窗口现金统计_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:403px;
+    top:174px;
+    width:168px;
+    height:34px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:174px;
+    height:40px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:164px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../窗口现金统计_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:571px;
+    top:174px;
+    width:159px;
+    height:34px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:40px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../门票销售新模板_files/u38_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:929px;
+    top:30px;
+    width:69px;
+    height:39px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:45px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../门票销售新模板_files/u40_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:846px;
+    top:30px;
+    width:73px;
+    height:39px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:45px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:69px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:17px;
+    top:0px;
+    width:981px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u20_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:731px;
+    top:174px;
+    width:134px;
+    height:34px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:30px;
+    top:112px;
+    width:74px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:61px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:57px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:73px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../窗口现金统计_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:968px;
+    height:3px;
+}
+
+.u29 {
+    position:absolute;
+    left:30px;
+    top:134px;
+    width:968px;
+    height:10px;
+    
+}
+
+.u30_normal {
+    background-image: url('../窗口现金统计_files/u6_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:31px;
+    top:208px;
+    width:182px;
+    height:34px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:188px;
+    height:40px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:178px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../窗口现金统计_files/u8_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:213px;
+    top:208px;
+    width:191px;
+    height:34px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:40px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../窗口现金统计_files/u10_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:403px;
+    top:208px;
+    width:168px;
+    height:34px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:174px;
+    height:40px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:164px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:731px;
+    top:208px;
+    width:134px;
+    height:34px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:864px;
+    top:208px;
+    width:134px;
+    height:34px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../窗口现金统计_files/u6_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:31px;
+    top:242px;
+    width:182px;
+    height:34px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:188px;
+    height:40px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:178px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../窗口现金统计_files/u8_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:213px;
+    top:242px;
+    width:191px;
+    height:34px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:40px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../窗口现金统计_files/u10_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:403px;
+    top:242px;
+    width:168px;
+    height:34px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:174px;
+    height:40px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:164px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:864px;
+    top:242px;
+    width:134px;
+    height:34px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:731px;
+    top:242px;
+    width:134px;
+    height:34px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../窗口现金统计_files/u6_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:31px;
+    top:276px;
+    width:182px;
+    height:34px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:188px;
+    height:40px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:178px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../窗口现金统计_files/u8_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:213px;
+    top:276px;
+    width:191px;
+    height:34px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:40px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../窗口现金统计_files/u10_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:403px;
+    top:276px;
+    width:168px;
+    height:34px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:174px;
+    height:40px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:164px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../窗口现金统计_files/u12_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:571px;
+    top:276px;
+    width:159px;
+    height:34px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:40px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:731px;
+    top:276px;
+    width:134px;
+    height:34px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../窗口现金统计_files/u6_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:31px;
+    top:310px;
+    width:182px;
+    height:34px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:188px;
+    height:40px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:178px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../窗口现金统计_files/u8_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:213px;
+    top:310px;
+    width:191px;
+    height:34px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:40px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../窗口现金统计_files/u10_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:403px;
+    top:310px;
+    width:168px;
+    height:34px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:174px;
+    height:40px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:164px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../窗口现金统计_files/u12_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:571px;
+    top:310px;
+    width:159px;
+    height:34px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:40px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:731px;
+    top:310px;
+    width:134px;
+    height:34px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:654px;
+    top:81px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:713px;
+    top:81px;
+    width:62px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u72 {
+    position:absolute;
+    left:31px;
+    top:147px;
+    width:267px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:864px;
+    top:174px;
+    width:134px;
+    height:34px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../窗口现金统计_files/u75_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:571px;
+    top:208px;
+    width:160px;
+    height:34px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:40px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../窗口现金统计_files/u75_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:571px;
+    top:242px;
+    width:160px;
+    height:34px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:40px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:864px;
+    top:276px;
+    width:134px;
+    height:34px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../窗口现金统计_files/u20_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:864px;
+    top:310px;
+    width:134px;
+    height:34px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:40px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:21px;
+    top:41px;
+    width:815px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_line {
+    background-image: url('../窗口现金统计_files/u84_line.png');
+}
+
+.u84_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:981px;
+    height:3px;
+}
+
+.u84 {
+    position:absolute;
+    left:21px;
+    top:67px;
+    width:981px;
+    height:10px;
+    
+}
+
+.u85 {
+    position:absolute;
+    left:376px;
+    top:82px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:442px;
+    top:82px;
+    width:62px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u88 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:48px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

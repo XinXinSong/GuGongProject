@@ -1,0 +1,4424 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../统计表报_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:5px;
+    top:4px;
+    width:1096px;
+    height:35px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:18px;
+    top:14px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../统计表报_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:5px;
+    top:45px;
+    width:191px;
+    height:749px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:5px;
+    top:46px;
+    width:191px;
+    height:26px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:44px;
+    top:49px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:5px;
+    top:72px;
+    width:191px;
+    height:26px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:44px;
+    top:75px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:5px;
+    top:124px;
+    width:191px;
+    height:26px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:5px;
+    top:202px;
+    width:191px;
+    height:26px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:44px;
+    top:205px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:5px;
+    top:228px;
+    width:191px;
+    height:26px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:44px;
+    top:231px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:5px;
+    top:254px;
+    width:191px;
+    height:26px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:44px;
+    top:257px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:5px;
+    top:280px;
+    width:191px;
+    height:26px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:44px;
+    top:283px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:5px;
+    top:98px;
+    width:191px;
+    height:26px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:44px;
+    top:101px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:46px;
+    top:129px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:5px;
+    top:150px;
+    width:191px;
+    height:26px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:44px;
+    top:153px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:5px;
+    top:176px;
+    width:191px;
+    height:26px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:44px;
+    top:179px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:5px;
+    top:436px;
+    width:191px;
+    height:26px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:5px;
+    top:410px;
+    width:191px;
+    height:26px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:44px;
+    top:439px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:44px;
+    top:413px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:5px;
+    top:306px;
+    width:191px;
+    height:26px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:44px;
+    top:309px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:5px;
+    top:332px;
+    width:191px;
+    height:26px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:44px;
+    top:335px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:5px;
+    top:358px;
+    width:191px;
+    height:26px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:44px;
+    top:361px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:5px;
+    top:384px;
+    width:191px;
+    height:26px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:44px;
+    top:387px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:205px;
+    top:66px;
+    width:187px;
+    height:28px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:392px;
+    top:66px;
+    width:130px;
+    height:28px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:522px;
+    top:66px;
+    width:92px;
+    height:28px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:613px;
+    top:66px;
+    width:121px;
+    height:28px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../票纸统计报表_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:823px;
+    top:66px;
+    width:99px;
+    height:28px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:34px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:95px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:918px;
+    top:66px;
+    width:92px;
+    height:28px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:1010px;
+    top:66px;
+    width:91px;
+    height:28px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:205px;
+    top:94px;
+    width:187px;
+    height:28px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:392px;
+    top:94px;
+    width:130px;
+    height:28px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:522px;
+    top:94px;
+    width:92px;
+    height:28px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:613px;
+    top:94px;
+    width:121px;
+    height:28px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:734px;
+    top:94px;
+    width:91px;
+    height:28px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:823px;
+    top:94px;
+    width:96px;
+    height:28px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:919px;
+    top:94px;
+    width:91px;
+    height:28px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:205px;
+    top:122px;
+    width:187px;
+    height:28px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:392px;
+    top:122px;
+    width:130px;
+    height:28px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:522px;
+    top:122px;
+    width:92px;
+    height:28px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:613px;
+    top:122px;
+    width:121px;
+    height:28px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:734px;
+    top:122px;
+    width:91px;
+    height:28px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:823px;
+    top:122px;
+    width:96px;
+    height:28px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:919px;
+    top:122px;
+    width:91px;
+    height:28px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:205px;
+    top:150px;
+    width:187px;
+    height:28px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:392px;
+    top:150px;
+    width:130px;
+    height:28px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:522px;
+    top:150px;
+    width:92px;
+    height:28px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:613px;
+    top:150px;
+    width:121px;
+    height:28px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:734px;
+    top:150px;
+    width:91px;
+    height:28px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:823px;
+    top:150px;
+    width:96px;
+    height:28px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:919px;
+    top:150px;
+    width:91px;
+    height:28px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:205px;
+    top:178px;
+    width:187px;
+    height:28px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:392px;
+    top:178px;
+    width:130px;
+    height:28px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:522px;
+    top:178px;
+    width:92px;
+    height:28px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:613px;
+    top:178px;
+    width:121px;
+    height:28px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:734px;
+    top:178px;
+    width:91px;
+    height:28px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:823px;
+    top:178px;
+    width:96px;
+    height:28px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:919px;
+    top:178px;
+    width:91px;
+    height:28px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:205px;
+    top:206px;
+    width:187px;
+    height:28px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:392px;
+    top:206px;
+    width:130px;
+    height:28px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:522px;
+    top:206px;
+    width:92px;
+    height:28px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:613px;
+    top:206px;
+    width:121px;
+    height:28px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:734px;
+    top:206px;
+    width:91px;
+    height:28px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:823px;
+    top:206px;
+    width:96px;
+    height:28px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:919px;
+    top:206px;
+    width:91px;
+    height:28px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:205px;
+    top:234px;
+    width:187px;
+    height:28px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:392px;
+    top:234px;
+    width:130px;
+    height:28px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:522px;
+    top:234px;
+    width:92px;
+    height:28px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:613px;
+    top:234px;
+    width:121px;
+    height:28px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:734px;
+    top:234px;
+    width:91px;
+    height:28px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:823px;
+    top:234px;
+    width:96px;
+    height:28px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:919px;
+    top:234px;
+    width:91px;
+    height:28px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:205px;
+    top:262px;
+    width:187px;
+    height:28px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:392px;
+    top:262px;
+    width:130px;
+    height:28px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:522px;
+    top:262px;
+    width:92px;
+    height:28px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:613px;
+    top:262px;
+    width:121px;
+    height:28px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:734px;
+    top:262px;
+    width:91px;
+    height:28px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:823px;
+    top:262px;
+    width:96px;
+    height:28px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:919px;
+    top:262px;
+    width:91px;
+    height:28px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:205px;
+    top:290px;
+    width:187px;
+    height:28px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:392px;
+    top:290px;
+    width:130px;
+    height:28px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:522px;
+    top:290px;
+    width:92px;
+    height:28px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:613px;
+    top:290px;
+    width:121px;
+    height:28px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:734px;
+    top:290px;
+    width:91px;
+    height:28px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:823px;
+    top:290px;
+    width:96px;
+    height:28px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:919px;
+    top:290px;
+    width:91px;
+    height:28px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:205px;
+    top:318px;
+    width:187px;
+    height:28px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:392px;
+    top:318px;
+    width:130px;
+    height:28px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:522px;
+    top:318px;
+    width:92px;
+    height:28px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:613px;
+    top:318px;
+    width:121px;
+    height:28px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:734px;
+    top:318px;
+    width:91px;
+    height:28px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:823px;
+    top:318px;
+    width:96px;
+    height:28px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:919px;
+    top:318px;
+    width:91px;
+    height:28px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:205px;
+    top:346px;
+    width:187px;
+    height:28px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:392px;
+    top:346px;
+    width:130px;
+    height:28px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:522px;
+    top:346px;
+    width:92px;
+    height:28px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:613px;
+    top:346px;
+    width:121px;
+    height:28px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:734px;
+    top:346px;
+    width:91px;
+    height:28px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:823px;
+    top:346px;
+    width:96px;
+    height:28px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:919px;
+    top:346px;
+    width:91px;
+    height:28px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:205px;
+    top:374px;
+    width:187px;
+    height:28px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:392px;
+    top:374px;
+    width:130px;
+    height:28px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:522px;
+    top:374px;
+    width:92px;
+    height:28px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:613px;
+    top:374px;
+    width:121px;
+    height:28px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:734px;
+    top:374px;
+    width:91px;
+    height:28px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:823px;
+    top:374px;
+    width:96px;
+    height:28px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:919px;
+    top:374px;
+    width:91px;
+    height:28px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../票纸统计报表_files/u54_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:205px;
+    top:402px;
+    width:187px;
+    height:28px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:193px;
+    height:34px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:183px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../票纸统计报表_files/u56_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:392px;
+    top:402px;
+    width:130px;
+    height:28px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:34px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:126px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../票纸统计报表_files/u58_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:522px;
+    top:402px;
+    width:92px;
+    height:28px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:34px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:88px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../票纸统计报表_files/u60_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:613px;
+    top:402px;
+    width:121px;
+    height:28px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:34px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:117px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:734px;
+    top:402px;
+    width:91px;
+    height:28px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../票纸统计报表_files/u78_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:823px;
+    top:402px;
+    width:96px;
+    height:28px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:34px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:92px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:919px;
+    top:402px;
+    width:91px;
+    height:28px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../票纸统计报表_files/u236_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:734px;
+    top:66px;
+    width:89px;
+    height:28px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:95px;
+    height:34px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:85px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:1010px;
+    top:94px;
+    width:91px;
+    height:28px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:1010px;
+    top:122px;
+    width:91px;
+    height:28px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:1010px;
+    top:150px;
+    width:91px;
+    height:28px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:1010px;
+    top:178px;
+    width:91px;
+    height:28px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:1010px;
+    top:206px;
+    width:91px;
+    height:28px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u248_container {
+    position:absolute;
+    left:1010px;
+    top:234px;
+    width:91px;
+    height:28px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u249 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u250_container {
+    position:absolute;
+    left:1010px;
+    top:262px;
+    width:91px;
+    height:28px;
+}
+
+#u250_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u251 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u252_container {
+    position:absolute;
+    left:1010px;
+    top:290px;
+    width:91px;
+    height:28px;
+}
+
+#u252_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u253 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u254_container {
+    position:absolute;
+    left:1010px;
+    top:318px;
+    width:91px;
+    height:28px;
+}
+
+#u254_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u255 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u256_container {
+    position:absolute;
+    left:1010px;
+    top:346px;
+    width:91px;
+    height:28px;
+}
+
+#u256_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u257 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u258_container {
+    position:absolute;
+    left:1010px;
+    top:374px;
+    width:91px;
+    height:28px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u259 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../票纸统计报表_files/u66_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:1010px;
+    top:402px;
+    width:91px;
+    height:28px;
+}
+
+#u260_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:34px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262 {
+    position:absolute;
+    left:1045px;
+    top:44px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

@@ -1,0 +1,8762 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../统计表报_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:5px;
+    top:4px;
+    width:1096px;
+    height:35px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:18px;
+    top:14px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../统计表报_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:5px;
+    top:45px;
+    width:191px;
+    height:749px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:5px;
+    top:46px;
+    width:191px;
+    height:26px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:44px;
+    top:49px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:5px;
+    top:72px;
+    width:191px;
+    height:26px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:44px;
+    top:75px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:5px;
+    top:124px;
+    width:191px;
+    height:26px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:5px;
+    top:202px;
+    width:191px;
+    height:26px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:44px;
+    top:205px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:5px;
+    top:228px;
+    width:191px;
+    height:26px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:44px;
+    top:231px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:5px;
+    top:254px;
+    width:191px;
+    height:26px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:44px;
+    top:257px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:5px;
+    top:280px;
+    width:191px;
+    height:26px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:44px;
+    top:283px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:5px;
+    top:98px;
+    width:191px;
+    height:26px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:44px;
+    top:101px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:46px;
+    top:129px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:5px;
+    top:150px;
+    width:191px;
+    height:26px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:44px;
+    top:153px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:5px;
+    top:176px;
+    width:191px;
+    height:26px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:44px;
+    top:179px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:5px;
+    top:436px;
+    width:191px;
+    height:26px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:5px;
+    top:410px;
+    width:191px;
+    height:26px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:44px;
+    top:439px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:44px;
+    top:413px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:5px;
+    top:306px;
+    width:191px;
+    height:26px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:44px;
+    top:309px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:5px;
+    top:332px;
+    width:191px;
+    height:26px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:44px;
+    top:335px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:5px;
+    top:358px;
+    width:191px;
+    height:26px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:44px;
+    top:361px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../统计表报_files/u5_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:5px;
+    top:384px;
+    width:191px;
+    height:26px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:44px;
+    top:387px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:204px;
+    top:53px;
+    width:86px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:272px;
+    top:48px;
+    width:130px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u56 {
+    position:absolute;
+    left:1231px;
+    top:48px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u57_normal {
+    background-image: url('../销售统计报表_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:204px;
+    top:83px;
+    width:221px;
+    height:54px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:60px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:425px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:498px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:419px;
+    top:48px;
+    width:86px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u64 {
+    position:absolute;
+    left:515px;
+    top:48px;
+    width:81px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u65 {
+    position:absolute;
+    left:606px;
+    top:48px;
+    width:81px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u66 {
+    position:absolute;
+    left:699px;
+    top:48px;
+    width:81px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u67_normal {
+    background-image: url('../销售统计报表_files/u67_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:425px;
+    top:83px;
+    width:218px;
+    height:25px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:224px;
+    height:31px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:214px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:571px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:643px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:716px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../销售统计报表_files/u67_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:643px;
+    top:83px;
+    width:218px;
+    height:25px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:224px;
+    height:31px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:214px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:789px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:861px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:934px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../销售统计报表_files/u67_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:861px;
+    top:83px;
+    width:218px;
+    height:25px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:224px;
+    height:31px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:214px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:1007px;
+    top:108px;
+    width:72px;
+    height:29px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../销售统计报表_files/u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:204px;
+    top:137px;
+    width:78px;
+    height:145px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:151px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:282px;
+    top:137px;
+    width:143px;
+    height:29px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:425px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:498px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:571px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:643px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:716px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:789px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:861px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:934px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:1007px;
+    top:137px;
+    width:72px;
+    height:29px;
+}
+
+#u107_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:282px;
+    top:166px;
+    width:143px;
+    height:29px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:425px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:498px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:571px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u115_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:643px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:716px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:789px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u121_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:861px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:934px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u127_container {
+    position:absolute;
+    left:1007px;
+    top:166px;
+    width:72px;
+    height:29px;
+}
+
+#u127_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u128 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:282px;
+    top:195px;
+    width:143px;
+    height:29px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:425px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:498px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:571px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:643px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:716px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u139_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:789px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u141_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:861px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u143_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:934px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:1007px;
+    top:195px;
+    width:72px;
+    height:29px;
+}
+
+#u147_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:282px;
+    top:224px;
+    width:143px;
+    height:29px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:425px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:498px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:571px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:643px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:716px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:789px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:861px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:934px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:1007px;
+    top:224px;
+    width:72px;
+    height:29px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:282px;
+    top:253px;
+    width:143px;
+    height:29px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:425px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:498px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u173_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:571px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u175_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:643px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:716px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:789px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:861px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:934px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u185_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:1007px;
+    top:253px;
+    width:72px;
+    height:29px;
+}
+
+#u187_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:204px;
+    top:282px;
+    width:221px;
+    height:29px;
+}
+
+#u189_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:425px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:498px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:571px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:643px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:716px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:789px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u201_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u203_container {
+    position:absolute;
+    left:861px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u203_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:934px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u205_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u207_container {
+    position:absolute;
+    left:1007px;
+    top:282px;
+    width:72px;
+    height:29px;
+}
+
+#u207_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u208 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u209_normal {
+    background-image: url('../销售统计报表_files/u209_normal.png');
+}
+
+.u209_container {
+    position:absolute;
+    left:204px;
+    top:311px;
+    width:78px;
+    height:87px;
+}
+
+#u209_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:93px;
+}
+
+.u210 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:282px;
+    top:311px;
+    width:143px;
+    height:29px;
+}
+
+#u211_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:425px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:498px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:571px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:643px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:716px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:789px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:861px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:934px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u227_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:1007px;
+    top:311px;
+    width:72px;
+    height:29px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:282px;
+    top:340px;
+    width:143px;
+    height:29px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:425px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:498px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:571px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:643px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:716px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:789px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:861px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:934px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:1007px;
+    top:340px;
+    width:72px;
+    height:29px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:282px;
+    top:369px;
+    width:143px;
+    height:29px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:425px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:498px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u256 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:571px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u259_container {
+    position:absolute;
+    left:643px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u259_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u260 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u261_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u261_container {
+    position:absolute;
+    left:716px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u261_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u262 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u263_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u263_container {
+    position:absolute;
+    left:789px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u263_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u264 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:861px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:934px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:1007px;
+    top:369px;
+    width:72px;
+    height:29px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:204px;
+    top:398px;
+    width:221px;
+    height:29px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:425px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u275_container {
+    position:absolute;
+    left:498px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u275_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u276 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:571px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u279_container {
+    position:absolute;
+    left:643px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u279_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u280 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:716px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u281_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:789px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:861px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u285_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:934px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:1007px;
+    top:398px;
+    width:72px;
+    height:29px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../销售统计报表_files/u291_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:204px;
+    top:427px;
+    width:78px;
+    height:58px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:64px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:282px;
+    top:427px;
+    width:143px;
+    height:29px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:425px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:498px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u297_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:571px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:643px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:716px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u303_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:789px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u307_container {
+    position:absolute;
+    left:861px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u307_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u308 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u309_container {
+    position:absolute;
+    left:934px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u309_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u310 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u311_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u311_container {
+    position:absolute;
+    left:1007px;
+    top:427px;
+    width:72px;
+    height:29px;
+}
+
+#u311_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u312 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u313_container {
+    position:absolute;
+    left:282px;
+    top:456px;
+    width:143px;
+    height:29px;
+}
+
+#u313_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u314 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:425px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u317_container {
+    position:absolute;
+    left:498px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u317_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u318 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u319_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u319_container {
+    position:absolute;
+    left:571px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u319_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u320 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u321_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u321_container {
+    position:absolute;
+    left:643px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u321_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u322 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u323_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u323_container {
+    position:absolute;
+    left:716px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u323_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u324 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u325_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u325_container {
+    position:absolute;
+    left:789px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u325_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u326 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u327_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u327_container {
+    position:absolute;
+    left:861px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u327_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u328 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u329_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u329_container {
+    position:absolute;
+    left:934px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u329_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u330 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:1007px;
+    top:456px;
+    width:72px;
+    height:29px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:204px;
+    top:485px;
+    width:221px;
+    height:29px;
+}
+
+#u333_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:425px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u337_container {
+    position:absolute;
+    left:498px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u337_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u338 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u339_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u339_container {
+    position:absolute;
+    left:571px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u339_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u340 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u341_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u341_container {
+    position:absolute;
+    left:643px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u341_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u342 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u343_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u343_container {
+    position:absolute;
+    left:716px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u343_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u344 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u345_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u345_container {
+    position:absolute;
+    left:789px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u345_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u346 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u347_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u347_container {
+    position:absolute;
+    left:861px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u347_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u348 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u349_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u349_container {
+    position:absolute;
+    left:934px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u349_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u350 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u351_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u351_container {
+    position:absolute;
+    left:1007px;
+    top:485px;
+    width:72px;
+    height:29px;
+}
+
+#u351_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u352 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u353_normal {
+    background-image: url('../销售统计报表_files/u291_normal.png');
+}
+
+.u353_container {
+    position:absolute;
+    left:204px;
+    top:514px;
+    width:78px;
+    height:58px;
+}
+
+#u353_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:64px;
+}
+
+.u354 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u355_container {
+    position:absolute;
+    left:282px;
+    top:514px;
+    width:143px;
+    height:29px;
+}
+
+#u355_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u356 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u357_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u357_container {
+    position:absolute;
+    left:282px;
+    top:543px;
+    width:143px;
+    height:29px;
+}
+
+#u357_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u358 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u359_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u359_container {
+    position:absolute;
+    left:204px;
+    top:572px;
+    width:221px;
+    height:29px;
+}
+
+#u359_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u360 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:425px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u361_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u363_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u363_container {
+    position:absolute;
+    left:498px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u363_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u364 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u365_container {
+    position:absolute;
+    left:571px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u365_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u366 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u367_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u367_container {
+    position:absolute;
+    left:643px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u367_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u368 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u369_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u369_container {
+    position:absolute;
+    left:716px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u369_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u370 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u371_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u371_container {
+    position:absolute;
+    left:789px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u371_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u372 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u373_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u373_container {
+    position:absolute;
+    left:861px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u373_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u374 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u375_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u375_container {
+    position:absolute;
+    left:934px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u375_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u376 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u377_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u377_container {
+    position:absolute;
+    left:1007px;
+    top:572px;
+    width:72px;
+    height:29px;
+}
+
+#u377_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u378 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u379_container {
+    position:absolute;
+    left:425px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u379_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u380 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u381_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u381_container {
+    position:absolute;
+    left:498px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u381_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u382 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u383_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u383_container {
+    position:absolute;
+    left:571px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u383_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u384 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u385_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u385_container {
+    position:absolute;
+    left:643px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u385_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u386 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u387_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u387_container {
+    position:absolute;
+    left:716px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u387_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u388 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u389_container {
+    position:absolute;
+    left:789px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u389_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u390 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u391_container {
+    position:absolute;
+    left:861px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u391_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u392 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u393_container {
+    position:absolute;
+    left:934px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u393_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u394 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u395_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u395_container {
+    position:absolute;
+    left:1007px;
+    top:543px;
+    width:72px;
+    height:29px;
+}
+
+#u395_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u396 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u397_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u397_container {
+    position:absolute;
+    left:425px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u397_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u398 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u399_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u399_container {
+    position:absolute;
+    left:498px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u399_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u400 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u401_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u401_container {
+    position:absolute;
+    left:571px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u401_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u402 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u403_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u403_container {
+    position:absolute;
+    left:643px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u403_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u404 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u405_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u405_container {
+    position:absolute;
+    left:716px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u405_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u406 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u407_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u407_container {
+    position:absolute;
+    left:789px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u407_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u408 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u409_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u409_container {
+    position:absolute;
+    left:861px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u409_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u410 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u411_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u411_container {
+    position:absolute;
+    left:934px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u411_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u412 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u413_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u413_container {
+    position:absolute;
+    left:1007px;
+    top:514px;
+    width:72px;
+    height:29px;
+}
+
+#u413_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u414 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u415_normal {
+    background-image: url('../销售统计报表_files/u209_normal.png');
+}
+
+.u415_container {
+    position:absolute;
+    left:204px;
+    top:601px;
+    width:78px;
+    height:87px;
+}
+
+#u415_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:93px;
+}
+
+.u416 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u417_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u417_container {
+    position:absolute;
+    left:282px;
+    top:601px;
+    width:143px;
+    height:29px;
+}
+
+#u417_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u418 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u419_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u419_container {
+    position:absolute;
+    left:282px;
+    top:630px;
+    width:143px;
+    height:29px;
+}
+
+#u419_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u420 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u421_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u421_container {
+    position:absolute;
+    left:425px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u421_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u422 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u423_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u423_container {
+    position:absolute;
+    left:498px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u423_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u424 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u425_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u425_container {
+    position:absolute;
+    left:571px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u425_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u426 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u427_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u427_container {
+    position:absolute;
+    left:643px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u427_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u428 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u429_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u429_container {
+    position:absolute;
+    left:716px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u429_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u430 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u431_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u431_container {
+    position:absolute;
+    left:789px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u431_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u432 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u433_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u433_container {
+    position:absolute;
+    left:861px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u433_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u434 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u435_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u435_container {
+    position:absolute;
+    left:934px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u435_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u436 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u437_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u437_container {
+    position:absolute;
+    left:1007px;
+    top:601px;
+    width:72px;
+    height:29px;
+}
+
+#u437_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u438 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u439_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u439_container {
+    position:absolute;
+    left:425px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u439_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u440 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u441_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u441_container {
+    position:absolute;
+    left:498px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u441_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u442 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u443_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u443_container {
+    position:absolute;
+    left:571px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u443_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u444 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u445_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u445_container {
+    position:absolute;
+    left:643px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u445_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u446 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u447_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u447_container {
+    position:absolute;
+    left:716px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u447_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u448 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u449_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u449_container {
+    position:absolute;
+    left:789px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u449_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u450 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u451_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u451_container {
+    position:absolute;
+    left:861px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u451_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u452 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u453_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u453_container {
+    position:absolute;
+    left:934px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u453_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u454 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u455_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u455_container {
+    position:absolute;
+    left:1007px;
+    top:630px;
+    width:72px;
+    height:29px;
+}
+
+#u455_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u456 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u457_normal {
+    background-image: url('../销售统计报表_files/u89_normal.png');
+}
+
+.u457_container {
+    position:absolute;
+    left:282px;
+    top:659px;
+    width:143px;
+    height:29px;
+}
+
+#u457_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:35px;
+}
+
+.u458 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u459_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u459_container {
+    position:absolute;
+    left:425px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u459_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u460 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u461_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u461_container {
+    position:absolute;
+    left:498px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u461_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u462 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u463_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u463_container {
+    position:absolute;
+    left:571px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u463_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u464 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u465_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u465_container {
+    position:absolute;
+    left:643px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u465_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u466 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u467_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u467_container {
+    position:absolute;
+    left:716px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u467_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u468 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u469_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u469_container {
+    position:absolute;
+    left:789px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u469_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u470 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u471_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u471_container {
+    position:absolute;
+    left:861px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u471_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u472 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u473_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u473_container {
+    position:absolute;
+    left:934px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u473_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u474 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u475_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u475_container {
+    position:absolute;
+    left:1007px;
+    top:659px;
+    width:72px;
+    height:29px;
+}
+
+#u475_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u476 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u477_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u477_container {
+    position:absolute;
+    left:425px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u477_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u478 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u479_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u479_container {
+    position:absolute;
+    left:498px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u479_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u480 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u481_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u481_container {
+    position:absolute;
+    left:571px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u481_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u482 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u483_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u483_container {
+    position:absolute;
+    left:643px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u483_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u484 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u485_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u485_container {
+    position:absolute;
+    left:716px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u485_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u486 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u487_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u487_container {
+    position:absolute;
+    left:789px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u487_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u488 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u489_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u489_container {
+    position:absolute;
+    left:861px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u489_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u490 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u491_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u491_container {
+    position:absolute;
+    left:934px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u491_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u492 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u493_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u493_container {
+    position:absolute;
+    left:1007px;
+    top:688px;
+    width:72px;
+    height:29px;
+}
+
+#u493_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u494 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u495_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u495_container {
+    position:absolute;
+    left:204px;
+    top:688px;
+    width:221px;
+    height:29px;
+}
+
+#u495_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u496 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u497_normal {
+    background-image: url('../销售统计报表_files/u189_normal.png');
+}
+
+.u497_container {
+    position:absolute;
+    left:204px;
+    top:717px;
+    width:221px;
+    height:29px;
+}
+
+#u497_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:35px;
+}
+
+.u498 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:217px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u499_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u499_container {
+    position:absolute;
+    left:425px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u499_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u500 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u501_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u501_container {
+    position:absolute;
+    left:498px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u501_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u502 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u503_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u503_container {
+    position:absolute;
+    left:571px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u503_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u504 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u505_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u505_container {
+    position:absolute;
+    left:643px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u505_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u506 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u507_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u507_container {
+    position:absolute;
+    left:716px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u507_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u508 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u509_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u509_container {
+    position:absolute;
+    left:789px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u509_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u510 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u511_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u511_container {
+    position:absolute;
+    left:861px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u511_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u512 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u513_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u513_container {
+    position:absolute;
+    left:934px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u513_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u514 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u515_normal {
+    background-image: url('../销售统计报表_files/u59_normal.png');
+}
+
+.u515_container {
+    position:absolute;
+    left:1007px;
+    top:717px;
+    width:72px;
+    height:29px;
+}
+
+#u515_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:35px;
+}
+
+.u516 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:68px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u517 {
+    position:absolute;
+    left:1022px;
+    top:60px;
+    width:100px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

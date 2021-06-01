@@ -1,0 +1,5577 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:986px;
+    top:46px;
+    width:113px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:477px;
+    top:51px;
+    width:97px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:738px;
+    top:45px;
+    width:66px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:59px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:81px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_line {
+    background-image: url('../财务科票纸印刷_files/u7_line.png');
+}
+
+.u7_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:890px;
+    height:3px;
+}
+
+.u7 {
+    position:absolute;
+    left:210px;
+    top:73px;
+    width:890px;
+    height:10px;
+    
+}
+
+#u8 {
+    position:absolute;
+    left:223px;
+    top:982px;
+    width:935px;
+    height:445px;
+    overflow:hidden;
+}
+
+#pd0u8 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:935px;
+    height:445px;
+    
+}
+
+.u9_normal {
+    background-image: url('../财务科票纸印刷_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:9px;
+    top:10px;
+    width:914px;
+    height:420px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:920px;
+    height:426px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:202px;
+    width:910px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u11 {
+    position:absolute;
+    left:49px;
+    top:367px;
+    width:615px;
+    height:489px;
+    overflow:hidden;
+}
+
+#pd0u11 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:615px;
+    height:489px;
+    
+}
+
+.u12_normal {
+    background-image: url('../财务科票纸印刷_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:7px;
+    top:6px;
+    width:604px;
+    height:462px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:610px;
+    height:468px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:223px;
+    width:600px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:19px;
+    top:41px;
+    width:313px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:116px;
+    top:39px;
+    width:118px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u16 {
+    position:absolute;
+    left:272px;
+    top:38px;
+    width:124px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u17 {
+    position:absolute;
+    left:420px;
+    top:41px;
+    width:135px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:437px;
+    top:38px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u19 {
+    position:absolute;
+    left:19px;
+    top:74px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:116px;
+    top:72px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:26px;
+    top:381px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:19px;
+    top:12px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:19px;
+    top:134px;
+    width:313px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:116px;
+    top:132px;
+    width:118px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u25 {
+    position:absolute;
+    left:272px;
+    top:131px;
+    width:124px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u26 {
+    position:absolute;
+    left:420px;
+    top:134px;
+    width:135px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:437px;
+    top:131px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u28 {
+    position:absolute;
+    left:19px;
+    top:167px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:116px;
+    top:165px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u30 {
+    position:absolute;
+    left:19px;
+    top:105px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:19px;
+    top:225px;
+    width:313px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:116px;
+    top:223px;
+    width:118px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u33 {
+    position:absolute;
+    left:272px;
+    top:222px;
+    width:124px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:420px;
+    top:225px;
+    width:135px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:437px;
+    top:222px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u36 {
+    position:absolute;
+    left:19px;
+    top:258px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:116px;
+    top:256px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:19px;
+    top:196px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:19px;
+    top:318px;
+    width:313px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:116px;
+    top:316px;
+    width:118px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u41 {
+    position:absolute;
+    left:272px;
+    top:315px;
+    width:124px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u42 {
+    position:absolute;
+    left:420px;
+    top:318px;
+    width:135px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:437px;
+    top:315px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u44 {
+    position:absolute;
+    left:19px;
+    top:351px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:116px;
+    top:349px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u46 {
+    position:absolute;
+    left:19px;
+    top:289px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:546px;
+    top:38px;
+    width:58px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:546px;
+    top:131px;
+    width:58px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u49 {
+    position:absolute;
+    left:546px;
+    top:219px;
+    width:58px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u50 {
+    position:absolute;
+    left:546px;
+    top:312px;
+    width:58px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u51 {
+    position:absolute;
+    left:133px;
+    top:51px;
+    width:313px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:63px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:63px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:133px;
+    top:95px;
+    width:131px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:63px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:63px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:320px;
+    top:135px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u62 {
+    position:absolute;
+    left:49px;
+    top:865px;
+    width:666px;
+    height:324px;
+    overflow:hidden;
+}
+
+#pd0u62 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:666px;
+    height:324px;
+    
+}
+
+.u63_normal {
+    background-image: url('../财务科票纸印刷_files/u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:9px;
+    top:7px;
+    width:645px;
+    height:310px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:651px;
+    height:316px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:147px;
+    width:641px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:15px;
+    top:26px;
+    width:265px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:97px;
+    top:24px;
+    width:133px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u67 {
+    position:absolute;
+    left:433px;
+    top:28px;
+    width:152px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:475px;
+    top:25px;
+    width:79px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u69 {
+    position:absolute;
+    left:15px;
+    top:63px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:97px;
+    top:61px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u71 {
+    position:absolute;
+    left:15px;
+    top:108px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u72 {
+    position:absolute;
+    left:261px;
+    top:26px;
+    width:153px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u73 {
+    position:absolute;
+    left:598px;
+    top:25px;
+    width:59px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u74_normal {
+    background-image: url('../票务科_1_files/u0_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:4px;
+    top:2px;
+    width:1096px;
+    height:35px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1102px;
+    height:41px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1092px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:17px;
+    top:12px;
+    width:581px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../票务科_1_files/u3_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:4px;
+    top:43px;
+    width:191px;
+    height:749px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:755px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:366px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:4px;
+    top:44px;
+    width:191px;
+    height:26px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:43px;
+    top:47px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:4px;
+    top:70px;
+    width:191px;
+    height:26px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:43px;
+    top:73px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:4px;
+    top:122px;
+    width:191px;
+    height:26px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:4px;
+    top:148px;
+    width:191px;
+    height:26px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:43px;
+    top:151px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:4px;
+    top:174px;
+    width:191px;
+    height:26px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:43px;
+    top:177px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:4px;
+    top:200px;
+    width:191px;
+    height:26px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:43px;
+    top:203px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:4px;
+    top:226px;
+    width:191px;
+    height:26px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:43px;
+    top:229px;
+    width:136px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:4px;
+    top:96px;
+    width:191px;
+    height:26px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:43px;
+    top:99px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:45px;
+    top:127px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:4px;
+    top:252px;
+    width:191px;
+    height:26px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:43px;
+    top:255px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:4px;
+    top:278px;
+    width:191px;
+    height:26px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:43px;
+    top:281px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:4px;
+    top:330px;
+    width:191px;
+    height:26px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../票务科_1_files/u5_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:4px;
+    top:304px;
+    width:191px;
+    height:26px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:197px;
+    height:32px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:187px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:43px;
+    top:333px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114 {
+    position:absolute;
+    left:43px;
+    top:307px;
+    width:106px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
+    position:absolute;
+    left:210px;
+    top:48px;
+    width:77px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:279px;
+    top:45px;
+    width:188px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u118_normal {
+    background-image: url('../财务科票纸印刷_files/u118_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:210px;
+    top:93px;
+    width:124px;
+    height:58px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:64px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../财务科票纸印刷_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:334px;
+    top:93px;
+    width:521px;
+    height:29px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:527px;
+    height:35px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:517px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../财务科票纸印刷_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:855px;
+    top:93px;
+    width:119px;
+    height:58px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:64px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../财务科票纸印刷_files/u124_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:974px;
+    top:93px;
+    width:116px;
+    height:58px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:64px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:334px;
+    top:122px;
+    width:174px;
+    height:29px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:508px;
+    top:122px;
+    width:174px;
+    height:29px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:681px;
+    top:122px;
+    width:174px;
+    height:29px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:334px;
+    top:151px;
+    width:174px;
+    height:29px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:508px;
+    top:151px;
+    width:174px;
+    height:29px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:681px;
+    top:151px;
+    width:174px;
+    height:29px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:210px;
+    top:151px;
+    width:124px;
+    height:29px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:855px;
+    top:151px;
+    width:119px;
+    height:29px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:974px;
+    top:151px;
+    width:116px;
+    height:29px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:334px;
+    top:180px;
+    width:174px;
+    height:29px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:508px;
+    top:180px;
+    width:174px;
+    height:29px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:681px;
+    top:180px;
+    width:174px;
+    height:29px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:210px;
+    top:180px;
+    width:124px;
+    height:29px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:855px;
+    top:180px;
+    width:119px;
+    height:29px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:974px;
+    top:180px;
+    width:116px;
+    height:29px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:334px;
+    top:209px;
+    width:174px;
+    height:29px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:508px;
+    top:209px;
+    width:174px;
+    height:29px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:681px;
+    top:209px;
+    width:174px;
+    height:29px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:210px;
+    top:209px;
+    width:124px;
+    height:29px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:855px;
+    top:209px;
+    width:119px;
+    height:29px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:974px;
+    top:209px;
+    width:116px;
+    height:29px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:334px;
+    top:238px;
+    width:174px;
+    height:29px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:508px;
+    top:238px;
+    width:174px;
+    height:29px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../财务科票纸印刷_files/u126_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:681px;
+    top:238px;
+    width:174px;
+    height:29px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:35px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:210px;
+    top:238px;
+    width:124px;
+    height:29px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:855px;
+    top:238px;
+    width:119px;
+    height:29px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:974px;
+    top:238px;
+    width:116px;
+    height:29px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u180 {
+    position:absolute;
+    left:210px;
+    top:88px;
+    width:912px;
+    height:342px;
+    overflow:hidden;
+}
+
+#pd0u180 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:912px;
+    height:342px;
+    
+}
+
+.u181_normal {
+    background-image: url('../财务科票纸印刷_files/u181_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:915px;
+    height:292px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:921px;
+    height:298px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:138px;
+    width:911px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../财务科票纸印刷_files/u118_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:14px;
+    top:35px;
+    width:124px;
+    height:58px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:64px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../财务科票纸印刷_files/u120_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:138px;
+    top:35px;
+    width:521px;
+    height:29px;
+}
+
+#u185_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:527px;
+    height:35px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:517px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../财务科票纸印刷_files/u122_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:659px;
+    top:35px;
+    width:119px;
+    height:58px;
+}
+
+#u187_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:64px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../财务科票纸印刷_files/u124_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:778px;
+    top:35px;
+    width:116px;
+    height:58px;
+}
+
+#u189_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:64px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:21px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:138px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:203px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:268px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:333px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:398px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:464px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u201_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u203_container {
+    position:absolute;
+    left:529px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u203_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:594px;
+    top:64px;
+    width:65px;
+    height:29px;
+}
+
+#u205_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u207_container {
+    position:absolute;
+    left:138px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u207_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u208 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u209_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u209_container {
+    position:absolute;
+    left:203px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u209_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u210 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:268px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u211_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:333px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:398px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:464px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:529px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:594px;
+    top:93px;
+    width:65px;
+    height:29px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:14px;
+    top:93px;
+    width:124px;
+    height:29px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:659px;
+    top:93px;
+    width:119px;
+    height:29px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:778px;
+    top:93px;
+    width:116px;
+    height:29px;
+}
+
+#u227_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:138px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u229_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:203px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:268px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:333px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u235_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:398px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u237_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u239_container {
+    position:absolute;
+    left:464px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u239_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u240 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u241_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u241_container {
+    position:absolute;
+    left:529px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u241_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u242 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u243_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u243_container {
+    position:absolute;
+    left:594px;
+    top:122px;
+    width:65px;
+    height:29px;
+}
+
+#u243_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u244 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u245_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u245_container {
+    position:absolute;
+    left:14px;
+    top:122px;
+    width:124px;
+    height:29px;
+}
+
+#u245_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u246 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u247_container {
+    position:absolute;
+    left:659px;
+    top:122px;
+    width:119px;
+    height:29px;
+}
+
+#u247_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u248 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:778px;
+    top:122px;
+    width:116px;
+    height:29px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:138px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u252 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:203px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:268px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u256 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:333px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u259_container {
+    position:absolute;
+    left:398px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u259_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u260 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u261_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u261_container {
+    position:absolute;
+    left:464px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u261_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u262 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u263_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u263_container {
+    position:absolute;
+    left:529px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u263_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u264 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u265_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u265_container {
+    position:absolute;
+    left:594px;
+    top:151px;
+    width:65px;
+    height:29px;
+}
+
+#u265_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u266 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u267_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u267_container {
+    position:absolute;
+    left:14px;
+    top:151px;
+    width:124px;
+    height:29px;
+}
+
+#u267_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u268 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u269_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:659px;
+    top:151px;
+    width:119px;
+    height:29px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:778px;
+    top:151px;
+    width:116px;
+    height:29px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u273_container {
+    position:absolute;
+    left:138px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u273_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u274 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u275_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u275_container {
+    position:absolute;
+    left:203px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u275_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u276 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u277_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u277_container {
+    position:absolute;
+    left:268px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u277_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u278 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u279_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u279_container {
+    position:absolute;
+    left:333px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u279_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u280 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:398px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u281_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:464px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u283_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:529px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u285_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:594px;
+    top:180px;
+    width:65px;
+    height:29px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:14px;
+    top:180px;
+    width:124px;
+    height:29px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:659px;
+    top:180px;
+    width:119px;
+    height:29px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:778px;
+    top:180px;
+    width:116px;
+    height:29px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:138px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:203px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u297_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:268px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:333px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u301_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:398px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u303_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u305_container {
+    position:absolute;
+    left:464px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u305_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u307_container {
+    position:absolute;
+    left:529px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u307_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u308 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u309_container {
+    position:absolute;
+    left:594px;
+    top:209px;
+    width:65px;
+    height:29px;
+}
+
+#u309_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u310 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u311_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u311_container {
+    position:absolute;
+    left:14px;
+    top:209px;
+    width:124px;
+    height:29px;
+}
+
+#u311_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u312 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u313_container {
+    position:absolute;
+    left:659px;
+    top:209px;
+    width:119px;
+    height:29px;
+}
+
+#u313_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u314 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:778px;
+    top:209px;
+    width:116px;
+    height:29px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u317_container {
+    position:absolute;
+    left:138px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u317_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u318 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u319_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u319_container {
+    position:absolute;
+    left:203px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u319_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u320 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u321_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u321_container {
+    position:absolute;
+    left:268px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u321_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u322 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u323_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u323_container {
+    position:absolute;
+    left:333px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u323_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u324 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u325_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u325_container {
+    position:absolute;
+    left:398px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u325_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u326 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u327_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u327_container {
+    position:absolute;
+    left:464px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u327_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u328 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u329_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u329_container {
+    position:absolute;
+    left:529px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u329_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u330 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../财务科票纸印刷_files/u191_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:594px;
+    top:238px;
+    width:65px;
+    height:29px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:35px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../财务科票纸印刷_files/u138_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:14px;
+    top:238px;
+    width:124px;
+    height:29px;
+}
+
+#u333_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:130px;
+    height:35px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../财务科票纸印刷_files/u140_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:659px;
+    top:238px;
+    width:119px;
+    height:29px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:35px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337_normal {
+    background-image: url('../财务科票纸印刷_files/u142_normal.png');
+}
+
+.u337_container {
+    position:absolute;
+    left:778px;
+    top:238px;
+    width:116px;
+    height:29px;
+}
+
+#u337_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:122px;
+    height:35px;
+}
+
+.u338 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
